@@ -18,12 +18,9 @@ function addToCart(btn, id, name) {
     );
   }
   btn.classList.add('added');
-  const span = btn.querySelector('span');
-  const original = span.textContent;
-  span.textContent = '✓';
-  setTimeout(() => {
+  clearTimeout(btn._addedTimer);
+  btn._addedTimer = setTimeout(() => {
     btn.classList.remove('added');
-    span.textContent = original;
   }, 1200);
   showToast(`“${name}” adicionado ao carrinho`);
 }

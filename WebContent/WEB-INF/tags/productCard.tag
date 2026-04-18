@@ -15,7 +15,7 @@
     </svg>
   </button>
   <div class="product-bottle">
-    <v:bottle style="${product.bottleStyle}" color="${product.labelColor}" name="${product.name}" />
+    <v:bottle style="${product.bottleStyle}" color="${product.labelColor}" name="${product.name}" key="${product.id}" />
   </div>
   <div class="product-region">${product.region}</div>
   <div class="product-name">${product.name}</div>

@@ -11,6 +11,9 @@
     request.setAttribute("bestsellers", bestsellers);
     request.setAttribute("selection", selection);
 %>
+<c:url var="bannerPhoto1" value="/images/banner/photo1.png" />
+<c:url var="bannerPhoto2" value="/images/banner/photo2.png" />
+<c:url var="bannerPhoto3" value="/images/banner/photo3.png" />
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -57,16 +60,16 @@
       <p id="heroText">Uma coleção refinada de marcas premium, selecionadas à mão para as ocasiões mais memoráveis da sua mesa.</p>
       <a href="#bestsellers" class="btn-primary">Explore a coleção</a>
     </div>
-    <div class="hero-gallery">
-      <div class="tile" style="background: linear-gradient(135deg, #7a1a1a 0%, #430405 100%);">
-        <svg viewBox="0 0 90 280" style="width:100%;height:100%"><rect width="90" height="280" fill="none"/><path d="M38 30 h14 v38 c0 6 20 20 20 48 v160 c0 10 -8 18 -18 18 h-18 c-10 0 -18 -8 -18 -18 v-160 c0 -28 20 -42 20 -48 z" fill="#2a0c0c" opacity=".85"/><rect x="30" y="130" width="30" height="70" fill="#f1e3c2"/></svg>
-      </div>
-      <div class="tile" style="background: linear-gradient(135deg, #430405 0%, #1a0000 100%);">
-        <svg viewBox="0 0 200 200" style="width:100%;height:100%"><defs><radialGradient id="glass" cx=".5" cy=".4"><stop offset="0" stop-color="#8b0000"/><stop offset="1" stop-color="#3d0a0a"/></radialGradient></defs><ellipse cx="100" cy="110" rx="55" ry="30" fill="url(#glass)"/><path d="M70 110 Q100 50 130 110" stroke="#fff" stroke-opacity=".2" fill="none" stroke-width="2"/><rect x="97" y="110" width="6" height="50" fill="#fff" opacity=".3"/><ellipse cx="100" cy="170" rx="35" ry="6" fill="#fff" opacity=".2"/></svg>
-      </div>
-      <div class="tile" style="background: linear-gradient(135deg, #6d2929 0%, #430405 100%);">
-        <svg viewBox="0 0 200 200" style="width:100%;height:100%"><circle cx="100" cy="100" r="70" fill="#8b0000" opacity=".8"/><text x="100" y="108" text-anchor="middle" font-family="Inria Serif" font-size="28" fill="#f1e3c2" font-weight="700">V·A</text></svg>
-      </div>
+  </div>
+  <div class="hero-gallery">
+    <div class="tile tile-1">
+      <img src="${bannerPhoto1}" alt="Garrafa de vinho em destaque" class="banner-photo banner-photo-1" width="105" height="154" />
+    </div>
+    <div class="tile tile-2">
+      <img src="${bannerPhoto2}" alt="Taça de vinho em destaque" class="banner-photo banner-photo-2" width="127" height="183" />
+    </div>
+    <div class="tile tile-3">
+      <img src="${bannerPhoto3}" alt="Marca Vinheria Agnello em destaque" class="banner-photo banner-photo-3" width="150" height="206" />
     </div>
   </div>
 
