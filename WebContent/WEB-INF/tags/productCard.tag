@@ -1,11 +1,11 @@
 <%@ tag pageEncoding="UTF-8" trimDirectiveWhitespaces="true" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <%@ taglib prefix="v" tagdir="/WEB-INF/tags" %>
 <%@ attribute name="product" required="true" type="com.vinheria.model.Product" %>
 
-<article class="product-card" data-name="${fn:toLowerCase(product.name)}" data-region="${fn:toLowerCase(product.region)}" data-type="${product.type}"
-         xmlns:fn="http://java.sun.com/jsp/jstl/functions">
+<article class="product-card" data-name="${fn:toLowerCase(product.name)}" data-region="${fn:toLowerCase(product.region)}" data-type="${product.type}">
   <c:if test="${product.onSale}">
     <span class="discount-badge">-${product.discount}%</span>
   </c:if>

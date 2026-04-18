@@ -37,13 +37,33 @@ VinheriaAgnello/
 
 ## Running it
 
+### Quick start
+
+This repo now includes a local Tomcat setup and WAR build.
+
+1. Run `./scripts/run-tomcat.sh`
+2. Open `http://localhost:8080/VinheriaAgnello/`
+3. Stop it with `Ctrl+C`
+
+What the script does:
+
+- Downloads **Apache Tomcat 9.0.117** into `.tomcat/`
+- Builds `target/VinheriaAgnello.war` with Maven
+- Deploys the WAR into the local Tomcat `webapps/` folder
+- Runs Tomcat in the foreground so you can use it directly from a terminal
+
+Optional background mode:
+
+- Start with `./scripts/start-tomcat.sh`
+- Stop with `./scripts/stop-tomcat.sh`
+
 ### With Tomcat
 
-1. Copy `VinheriaAgnello/` to `$CATALINA_HOME/webapps/` (or import as a Dynamic Web Project in Eclipse → Export as WAR).
-2. Make sure JSTL 1.2 is on the classpath. Drop these jars into `WebContent/WEB-INF/lib/`:
-   - `jstl-1.2.jar`
-   - `taglibs-standard-impl-1.2.5.jar` (if not bundled)
+1. Build the WAR with `mvn -DskipTests package`.
+2. Copy `target/VinheriaAgnello.war` to `$CATALINA_HOME/webapps/`.
 3. Start Tomcat, visit `http://localhost:8080/VinheriaAgnello/`.
+
+JSTL is pulled in by Maven, so you do not need to copy jars manually.
 
 ### Eclipse / IntelliJ
 
