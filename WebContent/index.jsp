@@ -4,6 +4,7 @@
 <%@ taglib prefix="v" tagdir="/WEB-INF/tags" %>
 <%@ page import="com.vinheria.dao.ProductDAO" %>
 <%@ page import="com.vinheria.model.Product" %>
+<%@ page import="com.vinheria.config.EnvConfig" %>
 <%@ page import="java.util.List" %>
 <%
     List<Product> bestsellers = ProductDAO.findByCategory("bestsellers");
@@ -219,23 +220,60 @@
     </button>
     <h2 id="loginTitle">Bem-vindo de volta</h2>
     <p class="sub">Entre para acessar sua adega, pedidos e favoritos.</p>
-    <form onsubmit="event.preventDefault(); alert('Login OK (demo)'); closeLogin();">
+    <form id="loginForm" onsubmit="handleLogin(event)">
       <div class="form-group">
-        <label for="email">E-mail</label>
-        <input type="email" id="email" required placeholder="voce@exemplo.com" />
+        <label for="loginEmail">E-mail</label>
+        <input type="email" id="loginEmail" required placeholder="voce@exemplo.com" />
       </div>
       <div class="form-group">
-        <label for="password">Senha</label>
-        <input type="password" id="password" required placeholder="••••••••" />
+        <label for="loginPassword">Senha</label>
+        <input type="password" id="loginPassword" required placeholder="••••••••" />
       </div>
       <div class="form-row">
         <label style="font-weight:400;color:var(--muted)"><input type="checkbox" /> Lembrar-me</label>
-        <a href="#">Esqueceu a senha?</a>
       </div>
+      <div class="form-error" id="loginError"></div>
       <button type="submit" class="btn-submit">Entrar</button>
       <div class="modal-divider">OU</div>
       <div class="modal-footer">
-        Novo por aqui? <a href="#">Crie uma conta</a>
+        Novo por aqui? <a href="#" onclick="event.preventDefault(); openSignup()">Crie uma conta</a>
+      </div>
+    </form>
+  </div>
+</div>
+
+<%-- ============ SIGNUP MODAL ============ --%>
+<div class="modal-backdrop" id="signupModal" onclick="if(event.target===this) closeSignup()">
+  <div class="modal" role="dialog" aria-labelledby="signupTitle">
+    <button class="modal-close" onclick="closeSignup()" aria-label="Fechar">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6L6 18M6 6l12 12"/></svg>
+    </button>
+    <h2 id="signupTitle">Crie sua conta</h2>
+    <p class="sub">Monte sua adega, acompanhe pedidos e salve favoritos.</p>
+    <form id="signupForm" onsubmit="handleSignup(event)">
+      <div class="form-group">
+        <label for="signupUsername">Nome de usuário</label>
+        <input type="text" id="signupUsername" required minlength="2" maxlength="24"
+               pattern="[A-Za-z0-9_.\-]+" placeholder="Como quer ser chamado(a)"
+               autocomplete="username" />
+      </div>
+      <div class="form-group">
+        <label for="signupEmail">E-mail</label>
+        <input type="email" id="signupEmail" required placeholder="voce@exemplo.com" autocomplete="email" />
+      </div>
+      <div class="form-group">
+        <label for="signupPassword">Senha</label>
+        <input type="password" id="signupPassword" required minlength="6" placeholder="Mínimo 6 caracteres" autocomplete="new-password" />
+      </div>
+      <div class="form-group">
+        <label for="signupPasswordConfirm">Confirmar senha</label>
+        <input type="password" id="signupPasswordConfirm" required minlength="6" placeholder="Repita sua senha" autocomplete="new-password" />
+      </div>
+      <div class="form-error" id="signupError"></div>
+      <button type="submit" class="btn-submit">Criar conta</button>
+      <div class="modal-divider">OU</div>
+      <div class="modal-footer">
+        Já tem conta? <a href="#" onclick="event.preventDefault(); openLogin()">Entrar</a>
       </div>
     </form>
   </div>
@@ -247,6 +285,15 @@
   <span id="toastText">Adicionado ao carrinho</span>
 </div>
 
+<%-- Injeta config do Identity Platform a partir do .env (servidor → cliente) --%>
+<script>
+  window.__FIREBASE_CONFIG__ = {
+    apiKey:     "<%= EnvConfig.get("FIREBASE_API_KEY", "") %>",
+    authDomain: "<%= EnvConfig.get("FIREBASE_AUTH_DOMAIN", "") %>",
+    projectId:  "<%= EnvConfig.get("FIREBASE_PROJECT_ID", "") %>"
+  };
+</script>
+<script type="module" src="${pageContext.request.contextPath}/js/auth.js"></script>
 <script src="${pageContext.request.contextPath}/js/app.js"></script>
 </body>
 </html>

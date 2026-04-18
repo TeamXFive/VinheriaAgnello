@@ -112,15 +112,108 @@ function runSearch() {
   });
 }
 
-/* ---------- Login modal ---------- */
+/* ---------- Auth modals ---------- */
 function openLogin() {
+  closeSignup();
   document.getElementById('loginModal').classList.add('open');
   document.body.style.overflow = 'hidden';
 }
 function closeLogin() {
   document.getElementById('loginModal').classList.remove('open');
-  document.body.style.overflow = '';
+  if (!document.getElementById('signupModal').classList.contains('open')) {
+    document.body.style.overflow = '';
+  }
+  clearFormError('loginError');
+}
+function openSignup() {
+  closeLogin();
+  document.getElementById('signupModal').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeSignup() {
+  document.getElementById('signupModal').classList.remove('open');
+  if (!document.getElementById('loginModal').classList.contains('open')) {
+    document.body.style.overflow = '';
+  }
+  clearFormError('signupError');
 }
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') closeLogin();
+  if (e.key === 'Escape') { closeLogin(); closeSignup(); }
 });
+
+/* ---------- Auth handlers (Identity Platform) ---------- */
+function showFormError(id, msg) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.textContent = msg;
+  el.classList.add('show');
+}
+function clearFormError(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.textContent = '';
+  el.classList.remove('show');
+}
+
+function authErrorMessage(err) {
+  const code = err && err.code;
+  switch (code) {
+    case 'auth/invalid-email':         return 'E-mail inválido.';
+    case 'auth/user-not-found':
+    case 'auth/wrong-password':
+    case 'auth/invalid-credential':    return 'E-mail ou senha incorretos.';
+    case 'auth/email-already-in-use':  return 'Este e-mail já está cadastrado.';
+    case 'auth/weak-password':         return 'A senha precisa ter ao menos 6 caracteres.';
+    case 'auth/network-request-failed':return 'Falha de conexão. Tente novamente.';
+    case 'auth/invalid-api-key':
+    case 'auth/configuration-not-found':
+      return 'Identity Platform ainda não está configurado.';
+    default: return (err && err.message) || 'Não foi possível completar a operação.';
+  }
+}
+
+async function handleLogin(event) {
+  event.preventDefault();
+  clearFormError('loginError');
+  const email = document.getElementById('loginEmail').value.trim();
+  const password = document.getElementById('loginPassword').value;
+  const btn = event.target.querySelector('.btn-submit');
+  btn.disabled = true;
+  try {
+    if (!window.vaAuth) throw { code: 'auth/configuration-not-found' };
+    await window.vaAuth.signIn(email, password);
+    closeLogin();
+    event.target.reset();
+    showToast('Login realizado com sucesso');
+  } catch (err) {
+    showFormError('loginError', authErrorMessage(err));
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+async function handleSignup(event) {
+  event.preventDefault();
+  clearFormError('signupError');
+  const username = document.getElementById('signupUsername').value.trim();
+  const email = document.getElementById('signupEmail').value.trim();
+  const password = document.getElementById('signupPassword').value;
+  const confirm = document.getElementById('signupPasswordConfirm').value;
+  if (password !== confirm) {
+    showFormError('signupError', 'As senhas não coincidem.');
+    return;
+  }
+  const btn = event.target.querySelector('.btn-submit');
+  btn.disabled = true;
+  try {
+    if (!window.vaAuth) throw { code: 'auth/configuration-not-found' };
+    await window.vaAuth.signUp(username, email, password);
+    closeSignup();
+    event.target.reset();
+    showToast(`Bem-vindo(a), ${username}!`);
+  } catch (err) {
+    showFormError('signupError', authErrorMessage(err));
+  } finally {
+    btn.disabled = false;
+  }
+}
