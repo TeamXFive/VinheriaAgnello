@@ -1,0 +1,2001 @@
+sale_id,product_category,price_usd,customer_age,customer_loyalty_years,region,sales_channel,season,discount_applied,sale_success
+SALE-00001,Rose Wine,94.11,43,9,East,Physical Store,Spring,0,1
+SALE-00002,Rose Wine,39.4,30,14,West,Physical Store,Winter,1,1
+SALE-00003,Sparkling Wine,146.36,57,0,North,Online,Spring,1,1
+SALE-00004,White Wine,46.46,31,4,West,Physical Store,Spring,0,0
+SALE-00005,Rose Wine,35.58,40,1,North,Physical Store,Summer,1,1
+SALE-00006,Sparkling Wine,85.94,38,7,West,Online,Spring,1,1
+SALE-00007,Sparkling Wine,22.41,24,4,South,Physical Store,Spring,0,0
+SALE-00008,Rose Wine,104.42,69,12,North,Online,Summer,0,0
+SALE-00009,Red Wine,148.36,68,3,South,Physical Store,Autumn,1,0
+SALE-00010,White Wine,45.66,80,9,East,Online,Summer,0,1
+SALE-00011,Sparkling Wine,143.34,73,1,North,Online,Winter,0,0
+SALE-00012,White Wine,73.22,36,12,North,Physical Store,Summer,1,0
+SALE-00013,Sparkling Wine,148.39,25,1,East,Physical Store,Winter,1,1
+SALE-00014,White Wine,18.16,60,10,South,Online,Autumn,0,0
+SALE-00015,Red Wine,144.74,63,4,South,Physical Store,Winter,0,0
+SALE-00016,Sparkling Wine,63.65,28,1,North,Physical Store,Winter,0,0
+SALE-00017,White Wine,88.03,37,11,West,Physical Store,Winter,0,1
+SALE-00018,White Wine,87.04,35,10,North,Physical Store,Spring,0,1
+SALE-00019,White Wine,97.9,52,5,East,Physical Store,Winter,1,1
+SALE-00020,White Wine,145.24,46,3,North,Online,Autumn,0,0
+SALE-00021,Red Wine,20.73,31,3,South,Online,Summer,1,0
+SALE-00022,Sparkling Wine,42.73,79,15,East,Online,Spring,0,0
+SALE-00023,White Wine,104.84,37,3,West,Online,Summer,1,1
+SALE-00024,Sparkling Wine,47.25,74,10,South,Online,Winter,0,1
+SALE-00025,White Wine,115.75,51,7,South,Online,Winter,0,0
+SALE-00026,Rose Wine,21.79,53,11,East,Physical Store,Spring,1,1
+SALE-00027,Sparkling Wine,145.18,39,7,North,Physical Store,Spring,0,1
+SALE-00028,Sparkling Wine,20.1,22,3,West,Online,Summer,0,0
+SALE-00029,White Wine,112.71,72,15,East,Physical Store,Spring,0,0
+SALE-00030,Red Wine,145.13,79,8,West,Physical Store,Autumn,0,0
+SALE-00031,Rose Wine,100.66,47,9,East,Physical Store,Spring,0,0
+SALE-00032,White Wine,54.03,63,3,South,Physical Store,Autumn,0,0
+SALE-00033,Sparkling Wine,64.52,60,13,East,Online,Summer,0,1
+SALE-00034,Sparkling Wine,137.49,48,9,North,Online,Winter,0,0
+SALE-00035,Red Wine,102.05,47,12,North,Physical Store,Spring,1,1
+SALE-00036,Rose Wine,117.99,76,8,South,Physical Store,Winter,1,1
+SALE-00037,Sparkling Wine,45.54,37,5,West,Physical Store,Autumn,0,1
+SALE-00038,White Wine,35.32,52,13,East,Physical Store,Summer,1,0
+SALE-00039,Red Wine,16.11,58,1,West,Online,Winter,0,0
+SALE-00040,Red Wine,117.19,37,4,South,Physical Store,Spring,0,0
+SALE-00041,Red Wine,116.97,47,2,South,Online,Spring,0,1
+SALE-00042,White Wine,147.37,76,9,East,Physical Store,Summer,1,0
+SALE-00043,Sparkling Wine,46.56,76,0,South,Online,Autumn,1,0
+SALE-00044,White Wine,92.9,46,10,South,Online,Summer,0,1
+SALE-00045,White Wine,73.0,23,15,South,Physical Store,Summer,1,1
+SALE-00046,Sparkling Wine,52.86,62,3,West,Online,Winter,1,1
+SALE-00047,Sparkling Wine,149.82,24,5,South,Online,Autumn,1,1
+SALE-00048,Sparkling Wine,23.57,79,7,South,Physical Store,Summer,1,1
+SALE-00049,White Wine,30.98,42,9,West,Physical Store,Autumn,1,0
+SALE-00050,Rose Wine,69.3,74,5,North,Online,Summer,1,1
+SALE-00051,Sparkling Wine,91.56,54,6,South,Online,Summer,0,1
+SALE-00052,Rose Wine,24.73,80,1,West,Online,Summer,0,0
+SALE-00053,Rose Wine,62.68,28,12,North,Online,Winter,1,1
+SALE-00054,White Wine,93.05,64,13,West,Online,Winter,0,1
+SALE-00055,White Wine,131.29,77,13,North,Online,Summer,1,1
+SALE-00056,White Wine,85.6,55,11,West,Physical Store,Spring,1,1
+SALE-00057,Sparkling Wine,15.2,67,7,South,Physical Store,Summer,0,1
+SALE-00058,Rose Wine,26.18,38,10,West,Physical Store,Winter,1,1
+SALE-00059,Sparkling Wine,25.45,40,11,South,Online,Autumn,1,1
+SALE-00060,Rose Wine,134.44,57,7,West,Online,Summer,0,0
+SALE-00061,White Wine,52.09,69,6,East,Online,Autumn,0,0
+SALE-00062,Red Wine,81.38,39,9,South,Online,Winter,0,1
+SALE-00063,Red Wine,126.07,56,5,East,Online,Spring,1,0
+SALE-00064,Rose Wine,39.53,79,7,West,Physical Store,Autumn,1,0
+SALE-00065,White Wine,134.59,36,15,East,Physical Store,Winter,1,1
+SALE-00066,White Wine,82.41,35,10,West,Physical Store,Summer,1,1
+SALE-00067,Sparkling Wine,94.14,59,15,West,Physical Store,Autumn,1,1
+SALE-00068,Red Wine,44.29,51,5,East,Online,Summer,0,0
+SALE-00069,Rose Wine,105.95,66,12,West,Online,Autumn,1,1
+SALE-00070,White Wine,93.19,24,14,North,Online,Summer,0,0
+SALE-00071,Sparkling Wine,71.23,30,3,South,Online,Autumn,0,0
+SALE-00072,Red Wine,87.04,40,14,West,Physical Store,Autumn,0,0
+SALE-00073,Sparkling Wine,120.61,21,12,East,Online,Winter,1,1
+SALE-00074,Sparkling Wine,69.32,49,12,West,Physical Store,Winter,0,1
+SALE-00075,Red Wine,24.57,59,2,West,Physical Store,Autumn,1,0
+SALE-00076,White Wine,74.43,43,12,South,Physical Store,Spring,0,0
+SALE-00077,Rose Wine,145.78,74,3,South,Online,Summer,0,0
+SALE-00078,Rose Wine,42.17,33,12,West,Online,Spring,1,1
+SALE-00079,Red Wine,34.1,46,8,South,Physical Store,Spring,0,1
+SALE-00080,Red Wine,98.49,68,8,North,Physical Store,Spring,1,1
+SALE-00081,White Wine,21.86,31,1,South,Online,Autumn,0,0
+SALE-00082,Red Wine,71.11,40,5,West,Online,Autumn,1,1
+SALE-00083,Rose Wine,134.41,52,1,North,Physical Store,Autumn,0,0
+SALE-00084,Rose Wine,22.46,47,14,South,Online,Winter,1,1
+SALE-00085,White Wine,49.03,48,6,South,Physical Store,Autumn,0,0
+SALE-00086,Rose Wine,76.05,45,7,South,Online,Autumn,1,1
+SALE-00087,Rose Wine,47.58,42,4,North,Physical Store,Spring,0,0
+SALE-00088,Red Wine,107.67,33,9,North,Physical Store,Winter,0,1
+SALE-00089,Rose Wine,147.84,24,12,West,Physical Store,Summer,0,0
+SALE-00090,Sparkling Wine,108.75,32,14,East,Physical Store,Summer,1,1
+SALE-00091,White Wine,64.11,73,14,West,Physical Store,Summer,1,1
+SALE-00092,Sparkling Wine,87.04,67,10,North,Online,Spring,1,1
+SALE-00093,White Wine,60.37,31,8,North,Physical Store,Autumn,1,1
+SALE-00094,Rose Wine,72.91,70,14,East,Online,Summer,1,1
+SALE-00095,Red Wine,44.65,32,6,South,Physical Store,Spring,1,1
+SALE-00096,Sparkling Wine,26.4,42,0,South,Online,Spring,0,0
+SALE-00097,White Wine,126.57,33,13,North,Physical Store,Autumn,0,0
+SALE-00098,White Wine,130.52,42,5,North,Online,Winter,0,0
+SALE-00099,White Wine,125.63,62,12,North,Online,Spring,1,1
+SALE-00100,Rose Wine,38.77,80,1,North,Physical Store,Winter,1,1
+SALE-00101,Red Wine,125.46,58,4,West,Physical Store,Summer,1,0
+SALE-00102,Red Wine,54.42,40,0,South,Online,Autumn,1,1
+SALE-00103,Red Wine,60.91,40,13,East,Physical Store,Autumn,0,1
+SALE-00104,Sparkling Wine,89.39,76,1,North,Physical Store,Summer,0,0
+SALE-00105,White Wine,126.49,43,1,East,Physical Store,Winter,1,1
+SALE-00106,White Wine,124.45,51,10,North,Online,Spring,0,0
+SALE-00107,Red Wine,98.16,67,7,East,Physical Store,Spring,0,0
+SALE-00108,Red Wine,26.24,21,10,West,Online,Summer,0,1
+SALE-00109,Sparkling Wine,83.49,78,11,West,Online,Spring,0,1
+SALE-00110,Red Wine,23.8,23,8,East,Online,Autumn,0,1
+SALE-00111,Rose Wine,15.39,70,14,South,Online,Winter,1,1
+SALE-00112,White Wine,133.22,69,4,East,Physical Store,Winter,0,0
+SALE-00113,Red Wine,61.0,45,0,East,Online,Autumn,1,0
+SALE-00114,Rose Wine,125.44,72,7,North,Physical Store,Summer,0,1
+SALE-00115,Sparkling Wine,96.09,34,4,South,Physical Store,Summer,0,0
+SALE-00116,Red Wine,144.86,76,0,South,Online,Autumn,1,1
+SALE-00117,Sparkling Wine,50.79,47,13,North,Online,Summer,1,1
+SALE-00118,White Wine,53.32,38,8,North,Online,Winter,0,0
+SALE-00119,White Wine,99.29,40,14,West,Physical Store,Summer,0,1
+SALE-00120,Rose Wine,117.67,64,8,West,Online,Spring,1,1
+SALE-00121,Rose Wine,110.62,23,10,West,Physical Store,Winter,1,1
+SALE-00122,Rose Wine,93.31,68,13,West,Online,Autumn,1,0
+SALE-00123,White Wine,139.68,77,11,East,Online,Winter,1,1
+SALE-00124,Red Wine,111.57,78,1,West,Online,Summer,0,0
+SALE-00125,White Wine,51.31,69,0,West,Online,Summer,1,0
+SALE-00126,White Wine,116.64,23,2,East,Online,Autumn,0,1
+SALE-00127,White Wine,28.74,45,7,North,Physical Store,Winter,1,1
+SALE-00128,Red Wine,75.01,42,13,West,Physical Store,Summer,1,1
+SALE-00129,White Wine,138.53,66,14,East,Online,Autumn,0,1
+SALE-00130,Rose Wine,97.56,24,4,West,Online,Summer,1,1
+SALE-00131,Red Wine,24.37,75,3,North,Physical Store,Winter,0,1
+SALE-00132,White Wine,62.93,37,7,North,Online,Spring,1,1
+SALE-00133,Rose Wine,65.15,69,6,South,Physical Store,Winter,0,0
+SALE-00134,Rose Wine,22.5,36,8,West,Physical Store,Winter,1,1
+SALE-00135,Red Wine,42.34,61,12,South,Online,Summer,1,1
+SALE-00136,Sparkling Wine,46.24,37,0,West,Online,Autumn,1,1
+SALE-00137,White Wine,149.91,42,9,South,Physical Store,Summer,1,1
+SALE-00138,White Wine,30.91,28,11,West,Online,Autumn,1,1
+SALE-00139,Red Wine,18.94,67,0,South,Physical Store,Summer,0,1
+SALE-00140,Rose Wine,48.92,50,9,East,Physical Store,Summer,1,1
+SALE-00141,Sparkling Wine,73.52,73,3,South,Physical Store,Spring,1,1
+SALE-00142,Rose Wine,100.89,60,15,West,Online,Autumn,1,0
+SALE-00143,Rose Wine,98.71,44,4,North,Online,Summer,1,1
+SALE-00144,Sparkling Wine,77.38,40,2,West,Physical Store,Autumn,1,0
+SALE-00145,Sparkling Wine,21.77,46,0,West,Physical Store,Autumn,1,1
+SALE-00146,Sparkling Wine,41.56,51,5,South,Online,Spring,0,1
+SALE-00147,Rose Wine,144.76,22,9,West,Physical Store,Summer,1,1
+SALE-00148,Rose Wine,139.15,21,7,South,Online,Summer,0,0
+SALE-00149,Rose Wine,139.85,56,9,South,Physical Store,Spring,1,0
+SALE-00150,White Wine,34.36,67,0,North,Physical Store,Winter,0,1
+SALE-00151,Sparkling Wine,42.17,58,4,South,Online,Spring,1,1
+SALE-00152,Rose Wine,59.13,29,14,East,Online,Spring,1,1
+SALE-00153,Rose Wine,27.82,34,11,South,Online,Summer,0,1
+SALE-00154,Sparkling Wine,102.93,49,1,South,Online,Autumn,0,0
+SALE-00155,Sparkling Wine,139.6,58,0,North,Physical Store,Spring,0,0
+SALE-00156,Rose Wine,86.17,44,10,West,Online,Winter,1,0
+SALE-00157,White Wine,28.14,44,2,West,Online,Spring,1,1
+SALE-00158,Rose Wine,141.79,60,11,North,Online,Summer,0,0
+SALE-00159,Sparkling Wine,75.6,37,11,West,Online,Autumn,1,1
+SALE-00160,Sparkling Wine,137.9,45,0,South,Online,Spring,0,1
+SALE-00161,White Wine,115.62,49,15,East,Online,Winter,1,1
+SALE-00162,Sparkling Wine,49.83,50,4,South,Physical Store,Winter,0,1
+SALE-00163,Red Wine,110.98,23,9,North,Physical Store,Summer,1,1
+SALE-00164,White Wine,15.38,80,2,South,Physical Store,Autumn,0,0
+SALE-00165,Red Wine,68.34,44,15,West,Physical Store,Spring,1,1
+SALE-00166,Sparkling Wine,35.92,59,15,West,Online,Spring,0,1
+SALE-00167,White Wine,139.23,36,4,North,Online,Winter,1,1
+SALE-00168,Red Wine,141.93,49,13,South,Physical Store,Autumn,1,0
+SALE-00169,Sparkling Wine,110.36,69,15,East,Physical Store,Winter,1,1
+SALE-00170,Sparkling Wine,81.21,58,0,East,Physical Store,Summer,0,1
+SALE-00171,Sparkling Wine,27.69,56,3,West,Physical Store,Summer,1,0
+SALE-00172,Red Wine,116.98,23,7,East,Online,Winter,0,1
+SALE-00173,Red Wine,146.84,36,11,East,Online,Summer,1,1
+SALE-00174,Rose Wine,35.04,25,8,South,Physical Store,Winter,1,1
+SALE-00175,Sparkling Wine,76.62,37,11,North,Online,Winter,1,1
+SALE-00176,Rose Wine,69.37,43,2,South,Physical Store,Summer,1,0
+SALE-00177,White Wine,84.94,55,11,South,Physical Store,Spring,0,1
+SALE-00178,Rose Wine,63.84,29,2,East,Online,Winter,0,1
+SALE-00179,Sparkling Wine,38.32,48,9,South,Physical Store,Spring,0,1
+SALE-00180,Sparkling Wine,66.49,24,4,South,Physical Store,Spring,0,1
+SALE-00181,White Wine,76.93,62,6,West,Physical Store,Autumn,1,0
+SALE-00182,White Wine,77.91,69,4,West,Physical Store,Summer,1,1
+SALE-00183,Sparkling Wine,54.93,68,10,West,Online,Summer,1,1
+SALE-00184,Red Wine,43.08,30,9,North,Physical Store,Spring,1,1
+SALE-00185,Red Wine,55.24,77,7,East,Online,Autumn,1,1
+SALE-00186,Sparkling Wine,97.63,78,11,South,Physical Store,Winter,1,0
+SALE-00187,Sparkling Wine,65.19,57,11,North,Physical Store,Autumn,0,1
+SALE-00188,Sparkling Wine,117.65,48,6,South,Physical Store,Winter,0,0
+SALE-00189,White Wine,91.21,21,11,West,Online,Winter,1,1
+SALE-00190,Sparkling Wine,99.1,78,13,East,Online,Autumn,1,1
+SALE-00191,Red Wine,94.09,55,11,East,Physical Store,Spring,1,1
+SALE-00192,Sparkling Wine,58.87,70,7,East,Online,Autumn,1,0
+SALE-00193,Red Wine,23.67,33,7,South,Online,Winter,0,1
+SALE-00194,White Wine,36.48,21,7,West,Online,Winter,1,0
+SALE-00195,Sparkling Wine,86.71,27,5,North,Physical Store,Autumn,1,1
+SALE-00196,Sparkling Wine,34.01,70,11,North,Online,Spring,1,1
+SALE-00197,Sparkling Wine,57.43,40,14,East,Physical Store,Spring,0,1
+SALE-00198,White Wine,42.82,39,8,North,Online,Winter,0,1
+SALE-00199,Rose Wine,110.16,39,4,East,Online,Winter,0,1
+SALE-00200,Rose Wine,141.6,36,11,South,Physical Store,Spring,1,0
+SALE-00201,Rose Wine,118.87,43,2,North,Physical Store,Summer,0,0
+SALE-00202,Rose Wine,21.3,53,0,South,Physical Store,Summer,0,0
+SALE-00203,White Wine,83.38,61,13,East,Physical Store,Autumn,0,1
+SALE-00204,Rose Wine,74.91,77,4,South,Physical Store,Autumn,1,0
+SALE-00205,Sparkling Wine,100.88,66,2,East,Online,Winter,0,0
+SALE-00206,Red Wine,119.69,57,9,West,Physical Store,Autumn,0,1
+SALE-00207,Rose Wine,90.33,76,4,North,Physical Store,Winter,0,0
+SALE-00208,Sparkling Wine,54.21,48,8,West,Online,Summer,1,0
+SALE-00209,Rose Wine,101.56,57,8,West,Physical Store,Summer,1,1
+SALE-00210,White Wine,19.91,32,11,South,Physical Store,Spring,0,1
+SALE-00211,White Wine,54.02,53,11,East,Online,Autumn,1,1
+SALE-00212,Sparkling Wine,38.69,45,3,East,Physical Store,Spring,1,1
+SALE-00213,Sparkling Wine,145.72,40,1,South,Physical Store,Winter,1,1
+SALE-00214,White Wine,31.51,66,0,North,Online,Autumn,0,1
+SALE-00215,Red Wine,48.98,80,5,North,Physical Store,Summer,0,0
+SALE-00216,Rose Wine,95.74,79,8,South,Online,Winter,1,1
+SALE-00217,White Wine,111.46,62,15,East,Physical Store,Winter,1,0
+SALE-00218,Rose Wine,64.83,27,5,South,Online,Spring,0,0
+SALE-00219,Red Wine,82.96,73,14,East,Physical Store,Autumn,1,1
+SALE-00220,White Wine,117.01,30,13,East,Physical Store,Winter,0,1
+SALE-00221,Sparkling Wine,110.57,73,15,East,Physical Store,Summer,1,1
+SALE-00222,Sparkling Wine,116.15,37,4,South,Physical Store,Summer,0,0
+SALE-00223,Sparkling Wine,41.63,54,8,North,Physical Store,Autumn,1,1
+SALE-00224,Red Wine,87.62,69,10,West,Online,Winter,1,1
+SALE-00225,White Wine,132.02,25,5,East,Online,Spring,1,0
+SALE-00226,Sparkling Wine,87.27,78,15,West,Online,Winter,1,1
+SALE-00227,Sparkling Wine,46.26,37,13,East,Physical Store,Spring,1,1
+SALE-00228,White Wine,113.5,32,7,West,Online,Autumn,1,1
+SALE-00229,Red Wine,146.47,66,14,North,Online,Autumn,1,1
+SALE-00230,Sparkling Wine,86.53,46,2,West,Online,Spring,1,1
+SALE-00231,Red Wine,123.72,58,12,East,Physical Store,Summer,0,0
+SALE-00232,Red Wine,149.77,45,12,North,Online,Spring,1,0
+SALE-00233,Red Wine,33.61,52,15,North,Physical Store,Spring,1,1
+SALE-00234,Sparkling Wine,15.58,47,8,East,Online,Autumn,1,1
+SALE-00235,Rose Wine,65.84,30,15,East,Physical Store,Spring,0,1
+SALE-00236,Sparkling Wine,106.82,64,9,North,Physical Store,Autumn,1,0
+SALE-00237,White Wine,60.8,34,4,South,Online,Winter,0,1
+SALE-00238,Rose Wine,141.73,71,5,North,Online,Autumn,1,1
+SALE-00239,Red Wine,51.36,57,4,West,Online,Autumn,0,0
+SALE-00240,Rose Wine,90.4,70,9,West,Physical Store,Spring,0,1
+SALE-00241,White Wine,77.59,69,13,West,Physical Store,Autumn,1,1
+SALE-00242,Red Wine,21.48,38,0,West,Physical Store,Winter,1,1
+SALE-00243,Red Wine,53.7,75,15,East,Online,Winter,1,1
+SALE-00244,Red Wine,52.46,79,14,South,Physical Store,Winter,1,0
+SALE-00245,Sparkling Wine,57.07,36,11,North,Physical Store,Summer,1,1
+SALE-00246,Rose Wine,44.42,42,5,South,Physical Store,Summer,1,1
+SALE-00247,Sparkling Wine,25.12,46,11,North,Physical Store,Autumn,0,0
+SALE-00248,Red Wine,74.48,29,14,North,Online,Spring,1,1
+SALE-00249,Rose Wine,71.99,42,9,South,Online,Spring,0,1
+SALE-00250,Sparkling Wine,145.05,44,7,North,Online,Spring,0,0
+SALE-00251,Red Wine,100.25,28,0,North,Physical Store,Winter,1,0
+SALE-00252,White Wine,16.35,73,12,East,Physical Store,Autumn,0,1
+SALE-00253,Sparkling Wine,42.5,21,9,East,Physical Store,Winter,1,1
+SALE-00254,Sparkling Wine,33.95,42,7,South,Online,Autumn,1,1
+SALE-00255,Rose Wine,122.28,53,2,South,Online,Winter,0,1
+SALE-00256,Red Wine,121.69,52,13,East,Online,Autumn,0,0
+SALE-00257,White Wine,125.3,28,10,North,Physical Store,Autumn,0,0
+SALE-00258,Sparkling Wine,109.54,63,4,South,Physical Store,Summer,1,1
+SALE-00259,Rose Wine,48.02,45,15,East,Physical Store,Summer,0,0
+SALE-00260,White Wine,23.72,45,15,East,Online,Spring,1,1
+SALE-00261,Red Wine,37.05,51,6,South,Physical Store,Autumn,0,1
+SALE-00262,Sparkling Wine,91.2,70,11,South,Physical Store,Autumn,1,1
+SALE-00263,Sparkling Wine,145.73,37,5,North,Online,Spring,0,0
+SALE-00264,Sparkling Wine,72.73,66,7,South,Online,Winter,0,1
+SALE-00265,White Wine,105.65,61,4,East,Physical Store,Autumn,1,1
+SALE-00266,White Wine,96.47,57,0,East,Physical Store,Autumn,0,1
+SALE-00267,Sparkling Wine,123.21,50,7,West,Online,Winter,1,1
+SALE-00268,Rose Wine,70.56,68,15,North,Physical Store,Spring,1,1
+SALE-00269,Red Wine,144.17,64,12,East,Physical Store,Spring,0,0
+SALE-00270,White Wine,59.44,27,1,East,Physical Store,Spring,1,0
+SALE-00271,Sparkling Wine,59.39,22,2,West,Online,Winter,0,0
+SALE-00272,Red Wine,141.92,23,4,South,Online,Summer,1,0
+SALE-00273,White Wine,83.72,57,4,South,Physical Store,Winter,1,0
+SALE-00274,Red Wine,140.35,40,2,West,Online,Summer,0,0
+SALE-00275,Sparkling Wine,103.44,33,12,West,Physical Store,Summer,0,1
+SALE-00276,Sparkling Wine,75.97,35,6,East,Physical Store,Autumn,1,1
+SALE-00277,White Wine,18.75,34,5,South,Online,Autumn,0,1
+SALE-00278,Rose Wine,37.8,39,2,North,Online,Summer,0,0
+SALE-00279,White Wine,72.22,38,0,North,Physical Store,Spring,0,0
+SALE-00280,White Wine,81.66,63,3,West,Physical Store,Winter,0,1
+SALE-00281,Sparkling Wine,50.39,72,13,West,Online,Winter,1,1
+SALE-00282,Rose Wine,87.52,22,0,West,Online,Winter,0,0
+SALE-00283,Red Wine,121.11,38,8,East,Physical Store,Spring,0,1
+SALE-00284,Sparkling Wine,27.35,65,14,West,Online,Autumn,1,0
+SALE-00285,Rose Wine,126.04,46,5,North,Online,Autumn,0,0
+SALE-00286,Red Wine,94.47,61,4,East,Physical Store,Winter,0,1
+SALE-00287,Rose Wine,137.59,80,7,East,Physical Store,Winter,0,0
+SALE-00288,White Wine,96.82,33,4,West,Online,Summer,1,1
+SALE-00289,Red Wine,27.58,27,4,North,Online,Winter,0,1
+SALE-00290,Red Wine,109.42,65,3,South,Physical Store,Winter,1,1
+SALE-00291,White Wine,130.06,41,15,North,Online,Winter,1,1
+SALE-00292,Red Wine,90.79,58,4,North,Physical Store,Spring,1,1
+SALE-00293,Red Wine,37.65,46,15,North,Online,Spring,1,1
+SALE-00294,Rose Wine,73.29,77,7,West,Physical Store,Spring,0,1
+SALE-00295,Sparkling Wine,16.75,68,10,North,Physical Store,Summer,1,1
+SALE-00296,Red Wine,72.66,78,10,South,Physical Store,Winter,1,1
+SALE-00297,White Wine,55.41,78,5,West,Physical Store,Spring,0,1
+SALE-00298,White Wine,56.0,57,9,South,Online,Autumn,1,1
+SALE-00299,Rose Wine,15.38,80,0,West,Online,Summer,0,0
+SALE-00300,Rose Wine,81.49,43,14,West,Online,Summer,1,1
+SALE-00301,Red Wine,42.27,64,14,East,Online,Summer,1,1
+SALE-00302,Sparkling Wine,140.88,61,1,East,Online,Winter,0,0
+SALE-00303,Rose Wine,123.59,61,1,East,Online,Autumn,0,0
+SALE-00304,Red Wine,60.7,46,10,East,Physical Store,Summer,1,1
+SALE-00305,White Wine,36.75,33,2,South,Online,Winter,0,0
+SALE-00306,White Wine,127.86,75,12,South,Online,Summer,1,0
+SALE-00307,White Wine,38.37,36,7,West,Online,Summer,1,1
+SALE-00308,Sparkling Wine,124.97,53,1,East,Online,Autumn,1,1
+SALE-00309,Sparkling Wine,127.91,42,9,North,Physical Store,Autumn,0,0
+SALE-00310,Red Wine,91.06,65,4,North,Physical Store,Autumn,0,1
+SALE-00311,Sparkling Wine,141.16,64,14,West,Online,Autumn,1,0
+SALE-00312,White Wine,110.28,42,3,West,Online,Summer,0,1
+SALE-00313,Red Wine,123.01,76,3,East,Online,Summer,0,0
+SALE-00314,Red Wine,83.34,70,6,North,Physical Store,Winter,1,1
+SALE-00315,Red Wine,149.8,52,11,East,Online,Winter,1,1
+SALE-00316,Sparkling Wine,85.04,62,4,South,Online,Spring,0,0
+SALE-00317,Rose Wine,138.6,45,15,South,Physical Store,Winter,1,0
+SALE-00318,Red Wine,137.67,23,7,East,Online,Spring,0,0
+SALE-00319,White Wine,141.99,78,0,South,Physical Store,Autumn,0,0
+SALE-00320,Sparkling Wine,43.7,65,8,West,Online,Winter,0,0
+SALE-00321,Rose Wine,133.32,74,7,North,Physical Store,Summer,1,1
+SALE-00322,Rose Wine,69.41,25,12,West,Physical Store,Autumn,0,0
+SALE-00323,White Wine,93.88,31,15,East,Online,Autumn,0,0
+SALE-00324,Sparkling Wine,115.71,44,9,South,Online,Spring,1,1
+SALE-00325,Rose Wine,77.89,25,5,West,Physical Store,Summer,1,0
+SALE-00326,Red Wine,113.02,28,5,West,Online,Spring,1,1
+SALE-00327,Rose Wine,69.06,67,8,East,Physical Store,Summer,0,0
+SALE-00328,Rose Wine,114.4,53,11,West,Physical Store,Winter,0,0
+SALE-00329,Rose Wine,20.43,27,4,East,Physical Store,Winter,1,0
+SALE-00330,Red Wine,128.32,75,13,East,Online,Autumn,0,0
+SALE-00331,White Wine,117.52,47,1,West,Physical Store,Spring,1,1
+SALE-00332,White Wine,32.65,77,7,South,Physical Store,Winter,1,1
+SALE-00333,Rose Wine,36.82,36,8,South,Online,Winter,1,1
+SALE-00334,White Wine,27.32,30,0,East,Physical Store,Winter,1,1
+SALE-00335,Red Wine,64.0,65,13,West,Online,Summer,1,1
+SALE-00336,Rose Wine,43.7,40,14,North,Online,Spring,0,1
+SALE-00337,Rose Wine,124.14,67,12,West,Online,Autumn,1,1
+SALE-00338,White Wine,30.46,60,5,West,Physical Store,Autumn,0,0
+SALE-00339,Sparkling Wine,136.52,39,4,West,Physical Store,Winter,0,1
+SALE-00340,White Wine,93.7,68,5,North,Online,Summer,1,1
+SALE-00341,Rose Wine,32.3,61,10,South,Physical Store,Autumn,0,1
+SALE-00342,Sparkling Wine,43.37,63,9,South,Physical Store,Winter,1,1
+SALE-00343,White Wine,64.56,40,5,West,Online,Winter,0,1
+SALE-00344,Sparkling Wine,64.83,38,4,South,Online,Summer,0,1
+SALE-00345,Red Wine,106.39,46,3,West,Physical Store,Winter,1,1
+SALE-00346,Sparkling Wine,132.14,42,3,West,Online,Summer,1,1
+SALE-00347,White Wine,129.86,41,14,South,Online,Spring,1,1
+SALE-00348,White Wine,112.42,33,10,South,Physical Store,Winter,0,0
+SALE-00349,Rose Wine,104.09,51,7,West,Online,Summer,0,1
+SALE-00350,Sparkling Wine,79.72,72,7,North,Physical Store,Winter,0,0
+SALE-00351,Rose Wine,128.57,80,4,North,Physical Store,Summer,0,0
+SALE-00352,Sparkling Wine,137.42,46,2,North,Online,Spring,1,0
+SALE-00353,White Wine,15.96,26,5,South,Physical Store,Summer,0,0
+SALE-00354,White Wine,36.43,53,9,North,Physical Store,Autumn,0,1
+SALE-00355,Sparkling Wine,87.61,34,13,West,Physical Store,Autumn,1,1
+SALE-00356,Rose Wine,54.38,23,6,East,Online,Winter,0,0
+SALE-00357,Sparkling Wine,109.13,32,15,South,Physical Store,Spring,1,1
+SALE-00358,Red Wine,101.15,68,0,North,Online,Winter,1,1
+SALE-00359,Sparkling Wine,37.45,76,0,North,Physical Store,Winter,0,0
+SALE-00360,Sparkling Wine,47.03,23,0,West,Physical Store,Winter,0,1
+SALE-00361,Sparkling Wine,55.35,76,11,West,Physical Store,Spring,1,1
+SALE-00362,Red Wine,23.29,79,10,North,Physical Store,Winter,0,1
+SALE-00363,Rose Wine,98.64,62,3,West,Physical Store,Winter,0,0
+SALE-00364,Red Wine,111.62,47,10,East,Online,Spring,0,0
+SALE-00365,White Wine,126.29,61,8,West,Online,Autumn,0,0
+SALE-00366,Red Wine,141.62,73,12,West,Physical Store,Spring,1,1
+SALE-00367,White Wine,20.27,78,8,West,Physical Store,Winter,0,1
+SALE-00368,Sparkling Wine,83.6,53,11,North,Online,Summer,0,1
+SALE-00369,White Wine,142.68,43,8,North,Physical Store,Spring,1,1
+SALE-00370,Rose Wine,49.31,26,0,South,Online,Winter,1,0
+SALE-00371,White Wine,95.2,60,12,West,Physical Store,Autumn,1,0
+SALE-00372,Sparkling Wine,142.82,59,0,East,Online,Spring,1,1
+SALE-00373,White Wine,104.56,57,10,South,Physical Store,Summer,1,1
+SALE-00374,Rose Wine,16.59,47,12,West,Online,Winter,0,0
+SALE-00375,Sparkling Wine,31.05,71,13,West,Online,Spring,0,1
+SALE-00376,Rose Wine,106.92,52,10,North,Physical Store,Summer,0,1
+SALE-00377,Rose Wine,79.8,44,9,East,Online,Winter,0,0
+SALE-00378,White Wine,112.21,21,5,North,Physical Store,Winter,1,0
+SALE-00379,Rose Wine,15.41,34,4,West,Online,Autumn,1,1
+SALE-00380,White Wine,90.23,63,2,East,Online,Summer,1,1
+SALE-00381,Sparkling Wine,108.41,67,3,North,Online,Spring,1,0
+SALE-00382,White Wine,91.19,59,3,West,Online,Autumn,1,1
+SALE-00383,Rose Wine,149.53,41,12,South,Online,Spring,1,1
+SALE-00384,Sparkling Wine,93.54,43,4,East,Online,Summer,0,1
+SALE-00385,White Wine,44.79,71,5,West,Physical Store,Winter,1,0
+SALE-00386,Sparkling Wine,34.11,72,11,East,Online,Winter,0,1
+SALE-00387,Rose Wine,126.76,76,4,East,Physical Store,Spring,1,0
+SALE-00388,Red Wine,27.55,75,1,West,Online,Winter,0,0
+SALE-00389,White Wine,133.9,68,0,North,Physical Store,Spring,0,0
+SALE-00390,Sparkling Wine,120.77,40,13,East,Physical Store,Spring,1,1
+SALE-00391,White Wine,18.71,76,1,West,Physical Store,Summer,1,1
+SALE-00392,Sparkling Wine,88.29,57,13,East,Physical Store,Spring,0,1
+SALE-00393,Sparkling Wine,59.44,78,0,West,Physical Store,Summer,0,1
+SALE-00394,Rose Wine,25.8,66,9,West,Online,Spring,1,1
+SALE-00395,Rose Wine,142.76,62,8,East,Physical Store,Autumn,0,1
+SALE-00396,Sparkling Wine,81.08,35,8,South,Online,Autumn,1,1
+SALE-00397,Sparkling Wine,22.61,67,13,West,Online,Autumn,0,1
+SALE-00398,Sparkling Wine,17.49,76,11,West,Physical Store,Winter,1,1
+SALE-00399,Sparkling Wine,46.9,44,14,West,Physical Store,Autumn,0,0
+SALE-00400,White Wine,99.47,57,13,North,Online,Summer,0,1
+SALE-00401,Red Wine,32.87,80,0,West,Physical Store,Spring,0,1
+SALE-00402,Red Wine,112.38,36,9,West,Online,Spring,1,0
+SALE-00403,Rose Wine,17.24,73,2,South,Online,Winter,1,0
+SALE-00404,White Wine,116.04,49,5,West,Physical Store,Autumn,1,1
+SALE-00405,Rose Wine,148.29,42,4,West,Online,Winter,0,0
+SALE-00406,Red Wine,116.65,62,2,North,Online,Summer,0,0
+SALE-00407,White Wine,25.91,56,10,East,Physical Store,Spring,0,1
+SALE-00408,Rose Wine,89.81,29,6,East,Online,Autumn,0,0
+SALE-00409,Sparkling Wine,85.63,23,5,East,Physical Store,Summer,1,1
+SALE-00410,Rose Wine,65.5,69,14,South,Physical Store,Summer,0,0
+SALE-00411,White Wine,120.41,59,6,South,Physical Store,Summer,1,1
+SALE-00412,Sparkling Wine,39.09,79,2,North,Online,Winter,0,0
+SALE-00413,Red Wine,117.61,28,10,North,Online,Summer,0,0
+SALE-00414,White Wine,138.62,66,4,East,Physical Store,Winter,1,1
+SALE-00415,Red Wine,51.67,59,5,North,Physical Store,Winter,0,0
+SALE-00416,Rose Wine,71.43,33,4,North,Physical Store,Spring,0,1
+SALE-00417,Sparkling Wine,95.13,68,4,North,Physical Store,Summer,0,1
+SALE-00418,Red Wine,140.51,60,11,South,Online,Summer,1,1
+SALE-00419,Red Wine,141.02,34,14,South,Physical Store,Autumn,0,1
+SALE-00420,White Wine,106.28,37,14,South,Physical Store,Summer,1,0
+SALE-00421,Sparkling Wine,83.33,73,4,South,Physical Store,Summer,0,0
+SALE-00422,White Wine,89.71,65,4,West,Physical Store,Spring,0,0
+SALE-00423,Sparkling Wine,101.12,21,10,East,Physical Store,Winter,1,1
+SALE-00424,Red Wine,70.24,80,2,South,Online,Autumn,0,0
+SALE-00425,White Wine,109.18,60,1,West,Online,Winter,1,1
+SALE-00426,Rose Wine,17.26,42,4,East,Physical Store,Summer,0,1
+SALE-00427,Rose Wine,31.19,79,13,West,Physical Store,Summer,1,0
+SALE-00428,Sparkling Wine,27.85,54,4,North,Physical Store,Spring,1,1
+SALE-00429,Sparkling Wine,130.73,64,2,South,Online,Autumn,1,1
+SALE-00430,Red Wine,116.33,33,11,South,Physical Store,Summer,1,0
+SALE-00431,Red Wine,44.44,40,2,North,Online,Spring,1,1
+SALE-00432,Red Wine,143.65,26,10,West,Online,Summer,0,0
+SALE-00433,Sparkling Wine,64.23,27,5,East,Online,Spring,1,1
+SALE-00434,White Wine,142.59,57,11,East,Online,Summer,1,1
+SALE-00435,Sparkling Wine,143.59,44,11,East,Physical Store,Summer,1,1
+SALE-00436,Sparkling Wine,65.17,56,14,North,Physical Store,Summer,0,1
+SALE-00437,Red Wine,100.14,53,8,North,Online,Summer,0,0
+SALE-00438,Red Wine,28.69,62,15,North,Physical Store,Winter,1,1
+SALE-00439,White Wine,63.46,65,14,East,Online,Winter,1,1
+SALE-00440,Sparkling Wine,102.21,78,7,East,Online,Autumn,0,0
+SALE-00441,White Wine,125.92,44,15,North,Physical Store,Summer,0,1
+SALE-00442,Red Wine,104.02,48,4,East,Online,Spring,0,0
+SALE-00443,Red Wine,77.51,33,10,South,Online,Winter,1,1
+SALE-00444,Sparkling Wine,48.74,79,13,East,Online,Spring,1,1
+SALE-00445,White Wine,109.69,57,1,South,Physical Store,Summer,1,1
+SALE-00446,Rose Wine,101.94,21,13,West,Physical Store,Autumn,1,0
+SALE-00447,Rose Wine,117.85,44,9,West,Physical Store,Spring,0,1
+SALE-00448,White Wine,79.97,66,13,West,Physical Store,Autumn,0,0
+SALE-00449,White Wine,110.69,52,6,East,Online,Spring,1,1
+SALE-00450,Red Wine,51.57,22,1,West,Physical Store,Autumn,1,1
+SALE-00451,Sparkling Wine,116.14,73,12,North,Online,Spring,1,1
+SALE-00452,White Wine,59.85,24,5,South,Online,Autumn,1,0
+SALE-00453,Sparkling Wine,33.07,47,6,South,Online,Summer,1,1
+SALE-00454,Rose Wine,58.95,78,9,West,Physical Store,Summer,1,0
+SALE-00455,White Wine,37.57,75,10,South,Physical Store,Autumn,0,0
+SALE-00456,Rose Wine,53.04,48,8,North,Physical Store,Winter,1,1
+SALE-00457,Red Wine,127.5,71,12,East,Physical Store,Spring,1,1
+SALE-00458,Sparkling Wine,113.22,73,6,East,Physical Store,Spring,1,0
+SALE-00459,Sparkling Wine,89.52,50,10,West,Physical Store,Autumn,0,0
+SALE-00460,Red Wine,26.98,40,10,West,Physical Store,Summer,0,0
+SALE-00461,Rose Wine,104.24,70,2,West,Online,Spring,1,1
+SALE-00462,Red Wine,46.87,58,3,East,Physical Store,Summer,1,0
+SALE-00463,Sparkling Wine,56.91,27,12,South,Online,Summer,0,1
+SALE-00464,White Wine,125.29,35,0,South,Online,Winter,1,1
+SALE-00465,White Wine,24.43,70,4,West,Online,Summer,0,0
+SALE-00466,Red Wine,98.37,48,1,South,Physical Store,Spring,0,1
+SALE-00467,Rose Wine,110.66,79,9,East,Online,Winter,1,1
+SALE-00468,Rose Wine,102.21,25,0,West,Physical Store,Autumn,0,0
+SALE-00469,Rose Wine,84.86,68,13,West,Physical Store,Spring,1,1
+SALE-00470,Red Wine,72.07,50,10,North,Online,Autumn,0,1
+SALE-00471,Red Wine,49.07,24,0,West,Physical Store,Autumn,0,0
+SALE-00472,Rose Wine,137.06,73,14,West,Physical Store,Winter,1,0
+SALE-00473,Sparkling Wine,51.74,52,12,South,Online,Summer,1,1
+SALE-00474,Sparkling Wine,67.54,24,4,West,Online,Winter,0,1
+SALE-00475,White Wine,28.4,60,6,South,Physical Store,Spring,1,0
+SALE-00476,Sparkling Wine,128.22,29,2,West,Online,Summer,0,0
+SALE-00477,Rose Wine,22.59,21,7,West,Physical Store,Autumn,0,0
+SALE-00478,Rose Wine,118.15,65,7,North,Online,Winter,0,0
+SALE-00479,Rose Wine,37.26,55,15,North,Online,Autumn,1,1
+SALE-00480,White Wine,102.09,40,8,West,Physical Store,Summer,0,0
+SALE-00481,White Wine,35.57,51,11,East,Online,Autumn,1,1
+SALE-00482,Sparkling Wine,15.28,23,9,West,Physical Store,Summer,0,1
+SALE-00483,Red Wine,120.17,42,4,North,Online,Summer,1,0
+SALE-00484,Red Wine,138.19,67,12,West,Online,Autumn,0,0
+SALE-00485,Red Wine,103.13,23,14,East,Physical Store,Winter,0,1
+SALE-00486,Sparkling Wine,90.91,59,13,East,Online,Spring,1,1
+SALE-00487,Sparkling Wine,17.02,30,12,North,Online,Winter,1,1
+SALE-00488,Red Wine,108.82,47,0,West,Online,Winter,0,1
+SALE-00489,Sparkling Wine,54.58,58,1,South,Online,Summer,1,1
+SALE-00490,Red Wine,94.79,38,14,East,Online,Winter,1,1
+SALE-00491,Red Wine,32.57,33,1,West,Online,Spring,0,1
+SALE-00492,Rose Wine,122.84,43,10,South,Online,Autumn,1,0
+SALE-00493,Sparkling Wine,62.96,33,9,East,Physical Store,Winter,0,1
+SALE-00494,Sparkling Wine,63.77,54,3,East,Online,Autumn,1,1
+SALE-00495,Red Wine,105.56,60,2,East,Physical Store,Autumn,0,0
+SALE-00496,Red Wine,107.91,59,10,North,Physical Store,Winter,1,1
+SALE-00497,White Wine,116.64,74,11,East,Physical Store,Autumn,0,1
+SALE-00498,Red Wine,111.45,77,3,South,Physical Store,Autumn,0,0
+SALE-00499,Rose Wine,57.47,80,7,North,Physical Store,Summer,1,1
+SALE-00500,Red Wine,111.47,26,2,North,Online,Winter,0,0
+SALE-00501,Rose Wine,34.55,37,7,East,Online,Autumn,0,1
+SALE-00502,White Wine,18.48,69,13,North,Physical Store,Winter,0,1
+SALE-00503,White Wine,104.45,40,1,North,Online,Autumn,0,1
+SALE-00504,Sparkling Wine,45.01,38,13,East,Physical Store,Autumn,0,0
+SALE-00505,Sparkling Wine,82.04,60,13,East,Online,Autumn,0,1
+SALE-00506,Rose Wine,107.05,68,0,East,Online,Summer,0,0
+SALE-00507,White Wine,65.45,48,3,West,Physical Store,Summer,1,1
+SALE-00508,Sparkling Wine,85.32,30,11,West,Online,Spring,0,1
+SALE-00509,White Wine,78.04,42,1,North,Online,Autumn,0,1
+SALE-00510,White Wine,77.6,39,5,South,Online,Winter,1,0
+SALE-00511,Sparkling Wine,16.24,33,5,North,Online,Spring,1,0
+SALE-00512,Rose Wine,32.41,65,11,West,Online,Winter,0,1
+SALE-00513,White Wine,74.57,75,14,East,Online,Spring,0,0
+SALE-00514,Rose Wine,39.65,62,9,West,Online,Spring,0,1
+SALE-00515,Sparkling Wine,142.15,77,5,East,Physical Store,Winter,1,0
+SALE-00516,Rose Wine,17.64,42,3,West,Online,Summer,1,0
+SALE-00517,White Wine,79.76,54,15,South,Online,Winter,0,0
+SALE-00518,Sparkling Wine,114.31,62,14,South,Physical Store,Autumn,1,1
+SALE-00519,White Wine,86.05,29,11,East,Online,Spring,0,0
+SALE-00520,White Wine,119.42,55,6,West,Physical Store,Summer,1,1
+SALE-00521,Sparkling Wine,39.15,79,2,North,Online,Summer,0,0
+SALE-00522,Sparkling Wine,27.96,73,7,West,Online,Spring,1,1
+SALE-00523,Red Wine,60.79,40,14,East,Physical Store,Winter,0,1
+SALE-00524,White Wine,89.9,71,3,North,Physical Store,Winter,1,0
+SALE-00525,Rose Wine,59.22,23,14,South,Online,Spring,0,1
+SALE-00526,Rose Wine,63.75,44,0,East,Physical Store,Winter,0,1
+SALE-00527,Sparkling Wine,138.3,72,14,North,Online,Winter,0,1
+SALE-00528,White Wine,127.73,79,11,East,Physical Store,Summer,0,1
+SALE-00529,White Wine,53.33,60,8,East,Physical Store,Spring,0,0
+SALE-00530,Red Wine,115.56,48,12,South,Physical Store,Autumn,0,0
+SALE-00531,Red Wine,147.87,60,6,South,Online,Summer,0,1
+SALE-00532,White Wine,108.93,76,7,South,Physical Store,Winter,1,1
+SALE-00533,Sparkling Wine,99.16,28,7,East,Online,Autumn,0,1
+SALE-00534,Rose Wine,136.86,70,8,South,Online,Winter,1,0
+SALE-00535,Rose Wine,47.56,70,3,North,Physical Store,Spring,0,1
+SALE-00536,Red Wine,110.3,32,14,East,Online,Winter,1,1
+SALE-00537,Sparkling Wine,133.18,54,12,South,Online,Summer,0,0
+SALE-00538,Sparkling Wine,35.64,34,9,South,Physical Store,Autumn,0,1
+SALE-00539,White Wine,25.9,65,13,South,Online,Winter,1,1
+SALE-00540,Red Wine,149.05,29,11,North,Physical Store,Summer,0,1
+SALE-00541,Sparkling Wine,41.09,37,4,South,Physical Store,Autumn,0,0
+SALE-00542,Rose Wine,70.13,35,8,East,Online,Winter,0,1
+SALE-00543,White Wine,119.46,50,13,West,Physical Store,Summer,0,1
+SALE-00544,Rose Wine,17.57,74,9,South,Online,Summer,1,0
+SALE-00545,Rose Wine,83.09,31,0,South,Physical Store,Autumn,1,1
+SALE-00546,White Wine,43.95,79,1,South,Physical Store,Summer,0,0
+SALE-00547,Red Wine,70.28,46,7,North,Online,Summer,1,1
+SALE-00548,Sparkling Wine,48.64,39,6,East,Physical Store,Autumn,1,1
+SALE-00549,Sparkling Wine,121.97,55,11,South,Online,Autumn,0,0
+SALE-00550,White Wine,45.83,45,8,West,Online,Spring,0,0
+SALE-00551,White Wine,66.6,44,1,West,Physical Store,Autumn,1,1
+SALE-00552,Rose Wine,103.41,35,13,East,Online,Summer,1,1
+SALE-00553,Rose Wine,49.39,45,6,North,Physical Store,Summer,0,1
+SALE-00554,Rose Wine,104.33,22,4,South,Physical Store,Autumn,1,1
+SALE-00555,Rose Wine,57.04,63,9,North,Online,Autumn,0,0
+SALE-00556,White Wine,135.38,71,14,South,Physical Store,Autumn,0,1
+SALE-00557,White Wine,148.92,33,0,South,Physical Store,Autumn,0,0
+SALE-00558,Rose Wine,86.42,31,14,North,Physical Store,Winter,1,1
+SALE-00559,Sparkling Wine,73.64,33,7,South,Online,Spring,0,1
+SALE-00560,Sparkling Wine,63.13,33,5,East,Online,Summer,1,1
+SALE-00561,Red Wine,120.4,67,3,South,Online,Autumn,0,0
+SALE-00562,Rose Wine,80.01,36,2,South,Online,Autumn,0,0
+SALE-00563,Red Wine,30.64,69,14,South,Online,Autumn,1,1
+SALE-00564,Sparkling Wine,67.05,29,13,North,Online,Autumn,1,1
+SALE-00565,White Wine,146.6,47,4,East,Online,Autumn,1,1
+SALE-00566,Sparkling Wine,110.84,37,4,South,Physical Store,Summer,0,1
+SALE-00567,Red Wine,133.79,32,11,North,Online,Summer,1,0
+SALE-00568,Red Wine,96.24,64,8,South,Online,Winter,1,1
+SALE-00569,Rose Wine,77.34,73,6,West,Online,Autumn,1,0
+SALE-00570,Red Wine,48.33,59,10,West,Physical Store,Winter,1,1
+SALE-00571,Rose Wine,130.04,40,4,South,Online,Summer,0,0
+SALE-00572,White Wine,107.49,65,11,North,Physical Store,Winter,1,1
+SALE-00573,White Wine,55.21,71,7,West,Physical Store,Spring,1,1
+SALE-00574,Sparkling Wine,140.55,29,4,East,Physical Store,Summer,0,0
+SALE-00575,Rose Wine,54.84,47,15,South,Physical Store,Winter,0,1
+SALE-00576,Sparkling Wine,62.0,48,12,North,Online,Autumn,0,1
+SALE-00577,Rose Wine,48.13,34,7,South,Online,Autumn,0,0
+SALE-00578,Sparkling Wine,85.72,27,12,North,Online,Summer,0,1
+SALE-00579,Sparkling Wine,39.52,41,2,South,Online,Winter,1,1
+SALE-00580,Red Wine,28.4,40,15,North,Online,Summer,0,0
+SALE-00581,Sparkling Wine,73.62,71,2,East,Physical Store,Winter,0,0
+SALE-00582,White Wine,58.17,45,3,East,Online,Summer,0,0
+SALE-00583,Sparkling Wine,36.56,71,4,East,Online,Winter,1,1
+SALE-00584,Red Wine,29.71,71,13,South,Physical Store,Winter,0,1
+SALE-00585,Red Wine,132.98,72,15,East,Physical Store,Autumn,1,0
+SALE-00586,Sparkling Wine,141.34,59,14,East,Physical Store,Spring,0,1
+SALE-00587,Rose Wine,66.48,29,2,South,Online,Summer,1,1
+SALE-00588,Red Wine,51.33,27,5,East,Physical Store,Winter,1,1
+SALE-00589,Red Wine,52.75,44,0,East,Online,Winter,0,0
+SALE-00590,Red Wine,145.28,31,3,North,Online,Autumn,0,0
+SALE-00591,Rose Wine,46.71,34,13,South,Physical Store,Spring,1,1
+SALE-00592,Red Wine,31.79,68,3,North,Online,Summer,0,0
+SALE-00593,Rose Wine,35.05,54,12,East,Physical Store,Winter,0,1
+SALE-00594,White Wine,149.46,46,2,West,Online,Summer,1,0
+SALE-00595,Sparkling Wine,80.87,70,1,East,Online,Summer,0,1
+SALE-00596,Red Wine,86.2,55,12,East,Physical Store,Spring,1,0
+SALE-00597,Rose Wine,106.05,80,1,West,Online,Winter,0,0
+SALE-00598,Rose Wine,115.54,62,13,East,Physical Store,Summer,1,0
+SALE-00599,Sparkling Wine,28.16,32,1,East,Online,Summer,0,1
+SALE-00600,Rose Wine,58.12,24,4,North,Physical Store,Summer,1,1
+SALE-00601,Rose Wine,126.66,58,11,East,Online,Summer,0,1
+SALE-00602,White Wine,74.62,68,10,North,Online,Autumn,1,1
+SALE-00603,Rose Wine,142.94,39,7,South,Online,Autumn,1,1
+SALE-00604,White Wine,21.01,57,1,North,Online,Winter,1,0
+SALE-00605,White Wine,125.99,63,1,South,Physical Store,Summer,0,0
+SALE-00606,Rose Wine,20.48,45,15,South,Physical Store,Autumn,1,1
+SALE-00607,Red Wine,16.57,68,5,North,Online,Summer,1,1
+SALE-00608,Rose Wine,148.63,48,10,West,Physical Store,Autumn,1,0
+SALE-00609,Sparkling Wine,98.46,26,13,North,Online,Winter,0,0
+SALE-00610,Sparkling Wine,38.57,30,7,West,Online,Summer,1,1
+SALE-00611,Rose Wine,36.4,80,10,South,Physical Store,Spring,1,0
+SALE-00612,White Wine,105.48,56,11,South,Online,Spring,1,0
+SALE-00613,Rose Wine,141.85,34,6,North,Physical Store,Summer,0,1
+SALE-00614,Red Wine,88.1,23,3,East,Online,Summer,1,1
+SALE-00615,Rose Wine,124.54,77,7,North,Physical Store,Spring,1,1
+SALE-00616,White Wine,51.34,40,4,West,Physical Store,Winter,0,1
+SALE-00617,Red Wine,92.04,76,7,East,Online,Winter,0,1
+SALE-00618,Sparkling Wine,148.85,67,1,North,Physical Store,Summer,1,1
+SALE-00619,White Wine,139.81,61,3,South,Physical Store,Autumn,1,1
+SALE-00620,White Wine,139.25,49,9,South,Online,Spring,1,1
+SALE-00621,Sparkling Wine,27.54,62,2,West,Physical Store,Spring,1,1
+SALE-00622,Sparkling Wine,149.23,46,3,North,Online,Winter,0,1
+SALE-00623,Sparkling Wine,37.13,33,8,South,Physical Store,Spring,1,1
+SALE-00624,Sparkling Wine,89.01,52,14,North,Online,Autumn,0,0
+SALE-00625,White Wine,58.0,35,7,South,Physical Store,Autumn,0,0
+SALE-00626,Rose Wine,33.05,44,11,South,Online,Spring,0,1
+SALE-00627,Sparkling Wine,90.47,51,9,West,Online,Winter,0,0
+SALE-00628,Rose Wine,130.75,30,11,East,Online,Winter,0,0
+SALE-00629,Sparkling Wine,139.97,44,5,North,Physical Store,Spring,1,1
+SALE-00630,Red Wine,40.19,34,0,South,Physical Store,Summer,0,1
+SALE-00631,Red Wine,46.93,38,14,West,Physical Store,Spring,1,0
+SALE-00632,Sparkling Wine,91.05,45,9,West,Online,Autumn,0,1
+SALE-00633,Rose Wine,74.72,34,2,West,Online,Summer,0,0
+SALE-00634,White Wine,147.72,43,6,West,Physical Store,Winter,0,0
+SALE-00635,Rose Wine,135.22,73,14,North,Physical Store,Summer,0,0
+SALE-00636,White Wine,60.88,22,5,South,Online,Winter,1,1
+SALE-00637,Sparkling Wine,32.31,69,15,West,Online,Spring,0,1
+SALE-00638,Rose Wine,135.76,27,10,West,Online,Summer,0,1
+SALE-00639,Red Wine,32.33,77,11,North,Physical Store,Winter,0,1
+SALE-00640,Rose Wine,65.15,37,12,West,Physical Store,Spring,0,0
+SALE-00641,Rose Wine,134.29,80,9,West,Physical Store,Autumn,0,1
+SALE-00642,Red Wine,140.83,70,15,North,Physical Store,Autumn,0,0
+SALE-00643,Rose Wine,23.75,34,10,West,Online,Summer,0,1
+SALE-00644,Rose Wine,76.79,64,13,South,Online,Summer,0,1
+SALE-00645,Red Wine,22.93,30,14,South,Online,Summer,1,1
+SALE-00646,White Wine,142.41,22,0,West,Physical Store,Winter,1,1
+SALE-00647,Red Wine,88.69,73,11,North,Online,Spring,0,1
+SALE-00648,Rose Wine,145.8,52,15,West,Physical Store,Autumn,1,0
+SALE-00649,Rose Wine,123.85,28,11,East,Physical Store,Spring,1,1
+SALE-00650,Sparkling Wine,103.15,34,13,North,Online,Autumn,0,1
+SALE-00651,White Wine,31.58,45,15,South,Physical Store,Autumn,0,0
+SALE-00652,Rose Wine,130.53,36,10,West,Physical Store,Summer,0,0
+SALE-00653,Rose Wine,62.0,51,11,East,Online,Spring,1,0
+SALE-00654,Rose Wine,128.27,34,11,South,Physical Store,Summer,0,0
+SALE-00655,Red Wine,138.69,67,1,West,Online,Autumn,0,0
+SALE-00656,Rose Wine,24.77,27,8,West,Physical Store,Autumn,0,0
+SALE-00657,Rose Wine,87.52,75,15,South,Physical Store,Autumn,0,1
+SALE-00658,Red Wine,55.13,73,1,East,Physical Store,Summer,1,1
+SALE-00659,Sparkling Wine,85.74,60,1,South,Physical Store,Summer,1,1
+SALE-00660,Red Wine,78.15,28,13,West,Physical Store,Autumn,0,1
+SALE-00661,White Wine,98.22,73,10,South,Online,Summer,0,1
+SALE-00662,White Wine,144.26,66,14,North,Physical Store,Autumn,1,1
+SALE-00663,White Wine,80.17,73,2,South,Online,Spring,1,1
+SALE-00664,White Wine,103.82,80,9,South,Online,Autumn,1,1
+SALE-00665,White Wine,27.13,29,3,South,Physical Store,Winter,0,1
+SALE-00666,Rose Wine,147.35,33,6,North,Physical Store,Spring,1,0
+SALE-00667,Rose Wine,142.95,63,8,South,Online,Spring,1,1
+SALE-00668,Sparkling Wine,87.26,40,10,North,Online,Summer,0,1
+SALE-00669,Sparkling Wine,56.18,59,11,North,Online,Summer,1,1
+SALE-00670,Red Wine,50.61,33,9,East,Physical Store,Spring,0,1
+SALE-00671,Sparkling Wine,128.75,80,4,West,Online,Spring,0,0
+SALE-00672,Rose Wine,42.2,64,4,West,Physical Store,Winter,0,1
+SALE-00673,Rose Wine,17.44,60,14,South,Physical Store,Winter,0,0
+SALE-00674,Rose Wine,70.56,69,7,East,Physical Store,Autumn,1,1
+SALE-00675,Red Wine,97.97,60,8,East,Online,Spring,1,1
+SALE-00676,Rose Wine,69.26,60,13,East,Online,Summer,0,1
+SALE-00677,Red Wine,104.2,45,6,East,Physical Store,Summer,1,0
+SALE-00678,Sparkling Wine,136.3,74,12,West,Physical Store,Spring,1,1
+SALE-00679,Rose Wine,122.84,73,4,South,Online,Spring,0,0
+SALE-00680,White Wine,84.48,58,4,East,Online,Winter,0,0
+SALE-00681,White Wine,28.91,47,9,North,Online,Autumn,0,1
+SALE-00682,White Wine,119.03,44,12,North,Online,Winter,0,1
+SALE-00683,Sparkling Wine,145.17,35,3,East,Online,Summer,0,0
+SALE-00684,Red Wine,140.02,77,9,West,Online,Spring,1,1
+SALE-00685,White Wine,107.43,61,13,East,Online,Spring,0,0
+SALE-00686,Sparkling Wine,67.65,71,11,West,Online,Spring,0,1
+SALE-00687,White Wine,37.28,45,8,East,Physical Store,Summer,1,0
+SALE-00688,Rose Wine,116.67,47,12,East,Physical Store,Summer,1,1
+SALE-00689,Red Wine,48.89,33,1,South,Online,Winter,0,0
+SALE-00690,White Wine,68.13,29,2,South,Physical Store,Winter,1,0
+SALE-00691,Sparkling Wine,62.19,48,11,North,Online,Spring,0,1
+SALE-00692,Rose Wine,119.7,50,15,North,Physical Store,Spring,0,0
+SALE-00693,Rose Wine,144.06,34,12,South,Online,Autumn,1,1
+SALE-00694,Rose Wine,67.22,40,0,West,Online,Summer,0,0
+SALE-00695,Red Wine,98.62,25,10,South,Physical Store,Winter,0,1
+SALE-00696,White Wine,105.28,22,11,South,Online,Spring,0,1
+SALE-00697,Sparkling Wine,53.31,69,7,West,Physical Store,Spring,0,1
+SALE-00698,Red Wine,97.22,49,1,South,Physical Store,Winter,0,1
+SALE-00699,Sparkling Wine,94.71,40,6,West,Online,Autumn,1,1
+SALE-00700,White Wine,26.81,35,11,East,Online,Autumn,0,0
+SALE-00701,Red Wine,81.19,27,1,South,Online,Winter,1,1
+SALE-00702,Sparkling Wine,41.66,77,3,West,Physical Store,Autumn,0,1
+SALE-00703,Rose Wine,142.42,61,13,South,Online,Winter,0,1
+SALE-00704,Rose Wine,59.78,65,10,South,Physical Store,Autumn,1,1
+SALE-00705,White Wine,50.39,23,7,West,Physical Store,Spring,0,0
+SALE-00706,Red Wine,50.27,61,8,East,Online,Summer,0,1
+SALE-00707,White Wine,15.74,54,14,East,Online,Autumn,0,0
+SALE-00708,White Wine,138.1,76,2,East,Physical Store,Winter,0,0
+SALE-00709,White Wine,52.66,23,0,West,Online,Spring,1,0
+SALE-00710,Red Wine,122.02,33,10,West,Online,Winter,1,1
+SALE-00711,Red Wine,129.41,28,5,West,Online,Summer,1,1
+SALE-00712,Rose Wine,117.57,26,7,West,Online,Summer,0,0
+SALE-00713,Red Wine,127.33,39,7,North,Online,Winter,1,1
+SALE-00714,Rose Wine,31.89,68,14,North,Physical Store,Summer,1,1
+SALE-00715,Rose Wine,141.7,51,5,West,Online,Winter,0,0
+SALE-00716,Sparkling Wine,82.47,28,1,South,Online,Autumn,0,0
+SALE-00717,Red Wine,19.94,36,15,South,Online,Spring,0,0
+SALE-00718,Sparkling Wine,65.33,23,0,East,Online,Summer,1,1
+SALE-00719,Sparkling Wine,142.46,51,9,South,Online,Summer,1,1
+SALE-00720,Sparkling Wine,130.95,66,3,North,Online,Summer,0,0
+SALE-00721,Rose Wine,31.66,68,5,West,Online,Autumn,1,1
+SALE-00722,Red Wine,144.46,29,13,North,Online,Spring,1,0
+SALE-00723,White Wine,97.05,60,7,West,Online,Winter,0,0
+SALE-00724,Rose Wine,73.44,28,6,South,Physical Store,Autumn,0,0
+SALE-00725,Sparkling Wine,35.92,58,10,East,Physical Store,Autumn,0,1
+SALE-00726,Sparkling Wine,24.24,35,7,North,Physical Store,Spring,1,1
+SALE-00727,White Wine,63.2,32,14,South,Online,Spring,0,1
+SALE-00728,White Wine,127.06,63,13,West,Online,Spring,0,0
+SALE-00729,White Wine,82.32,38,7,East,Online,Winter,0,1
+SALE-00730,Rose Wine,46.79,46,0,East,Physical Store,Spring,0,0
+SALE-00731,Red Wine,117.62,32,11,East,Physical Store,Summer,1,1
+SALE-00732,Rose Wine,134.42,61,9,North,Physical Store,Winter,0,0
+SALE-00733,Red Wine,15.05,32,0,West,Online,Summer,1,1
+SALE-00734,Sparkling Wine,37.51,39,15,South,Physical Store,Winter,0,0
+SALE-00735,Sparkling Wine,137.74,69,3,North,Online,Spring,0,0
+SALE-00736,Rose Wine,79.7,38,6,West,Physical Store,Spring,0,1
+SALE-00737,White Wine,137.38,49,15,East,Physical Store,Spring,1,1
+SALE-00738,White Wine,77.03,28,15,West,Physical Store,Winter,1,0
+SALE-00739,White Wine,31.07,34,15,North,Online,Winter,0,1
+SALE-00740,Red Wine,35.38,40,15,North,Online,Autumn,1,1
+SALE-00741,Sparkling Wine,129.38,21,11,North,Online,Summer,1,1
+SALE-00742,Rose Wine,19.16,56,11,West,Online,Autumn,1,1
+SALE-00743,Sparkling Wine,46.9,41,9,East,Online,Winter,0,0
+SALE-00744,Rose Wine,36.04,30,2,North,Online,Autumn,0,0
+SALE-00745,Sparkling Wine,91.1,68,2,West,Physical Store,Spring,1,1
+SALE-00746,Sparkling Wine,29.5,61,0,South,Online,Autumn,1,0
+SALE-00747,Sparkling Wine,57.87,43,13,West,Online,Spring,1,1
+SALE-00748,Rose Wine,146.93,69,0,West,Online,Autumn,0,0
+SALE-00749,Red Wine,121.86,33,14,West,Online,Spring,1,1
+SALE-00750,Red Wine,140.2,73,9,West,Physical Store,Winter,1,1
+SALE-00751,Sparkling Wine,48.08,80,2,North,Physical Store,Autumn,1,1
+SALE-00752,Sparkling Wine,101.54,60,3,North,Online,Autumn,1,1
+SALE-00753,Rose Wine,50.1,57,13,West,Physical Store,Autumn,0,0
+SALE-00754,White Wine,93.91,57,13,South,Online,Autumn,0,0
+SALE-00755,Sparkling Wine,148.29,22,11,North,Physical Store,Summer,0,1
+SALE-00756,Red Wine,143.53,22,11,South,Online,Winter,0,1
+SALE-00757,Sparkling Wine,27.85,57,14,South,Physical Store,Winter,1,1
+SALE-00758,Rose Wine,111.85,62,8,North,Physical Store,Spring,0,1
+SALE-00759,White Wine,62.14,31,14,West,Online,Winter,0,1
+SALE-00760,Rose Wine,131.48,23,2,West,Online,Winter,0,1
+SALE-00761,White Wine,46.73,23,0,East,Physical Store,Summer,0,1
+SALE-00762,Sparkling Wine,85.08,42,8,North,Physical Store,Spring,1,1
+SALE-00763,Sparkling Wine,27.82,44,14,North,Physical Store,Winter,0,1
+SALE-00764,White Wine,29.4,33,13,South,Physical Store,Summer,0,1
+SALE-00765,Sparkling Wine,66.1,61,9,North,Online,Spring,0,1
+SALE-00766,White Wine,33.15,74,1,West,Physical Store,Spring,1,0
+SALE-00767,Red Wine,142.66,74,14,South,Online,Spring,0,1
+SALE-00768,Rose Wine,26.6,51,10,North,Physical Store,Spring,1,1
+SALE-00769,Red Wine,35.37,71,1,West,Physical Store,Autumn,0,1
+SALE-00770,Rose Wine,30.78,56,9,South,Physical Store,Spring,1,1
+SALE-00771,Rose Wine,138.85,40,14,East,Physical Store,Summer,0,1
+SALE-00772,Sparkling Wine,106.23,68,9,North,Physical Store,Winter,0,0
+SALE-00773,Rose Wine,93.67,27,1,South,Physical Store,Autumn,1,0
+SALE-00774,White Wine,85.12,59,10,South,Physical Store,Spring,0,1
+SALE-00775,Rose Wine,70.09,57,12,North,Online,Autumn,1,0
+SALE-00776,Red Wine,139.36,56,11,North,Online,Summer,1,1
+SALE-00777,Red Wine,43.36,39,3,South,Physical Store,Winter,0,1
+SALE-00778,White Wine,30.94,62,13,North,Online,Summer,0,1
+SALE-00779,Red Wine,109.03,43,8,North,Physical Store,Winter,1,1
+SALE-00780,White Wine,78.73,46,4,South,Physical Store,Summer,1,1
+SALE-00781,Red Wine,137.78,26,10,East,Physical Store,Summer,1,1
+SALE-00782,Rose Wine,109.94,45,5,East,Physical Store,Autumn,1,1
+SALE-00783,White Wine,123.3,30,10,North,Physical Store,Winter,0,1
+SALE-00784,Red Wine,50.7,22,2,South,Physical Store,Autumn,1,1
+SALE-00785,Red Wine,49.07,30,4,South,Physical Store,Winter,0,1
+SALE-00786,White Wine,121.43,47,13,South,Online,Winter,0,0
+SALE-00787,Rose Wine,48.94,68,14,East,Physical Store,Autumn,1,1
+SALE-00788,Sparkling Wine,83.9,58,15,West,Physical Store,Summer,1,1
+SALE-00789,Sparkling Wine,112.78,48,4,North,Physical Store,Spring,0,0
+SALE-00790,Sparkling Wine,126.26,65,13,West,Physical Store,Autumn,0,1
+SALE-00791,White Wine,89.11,43,4,South,Physical Store,Winter,1,1
+SALE-00792,Rose Wine,78.05,78,2,North,Online,Spring,1,1
+SALE-00793,Rose Wine,89.72,25,13,North,Online,Winter,0,0
+SALE-00794,Sparkling Wine,111.8,70,6,East,Online,Winter,0,0
+SALE-00795,White Wine,126.37,58,5,North,Physical Store,Winter,1,1
+SALE-00796,Sparkling Wine,69.41,38,4,East,Physical Store,Autumn,0,0
+SALE-00797,Red Wine,134.42,23,2,West,Online,Spring,1,0
+SALE-00798,Rose Wine,54.1,33,1,East,Online,Summer,1,1
+SALE-00799,Red Wine,98.79,42,0,North,Online,Summer,0,0
+SALE-00800,Red Wine,88.49,63,7,West,Physical Store,Spring,0,0
+SALE-00801,Rose Wine,67.28,51,8,East,Online,Spring,1,1
+SALE-00802,Sparkling Wine,64.26,29,10,West,Online,Winter,1,1
+SALE-00803,White Wine,87.62,65,5,South,Online,Autumn,0,0
+SALE-00804,Sparkling Wine,48.22,65,8,North,Physical Store,Spring,1,1
+SALE-00805,Sparkling Wine,101.47,60,13,South,Online,Winter,1,1
+SALE-00806,Red Wine,66.49,68,11,West,Physical Store,Spring,1,1
+SALE-00807,Red Wine,26.78,55,6,North,Physical Store,Summer,1,1
+SALE-00808,Sparkling Wine,140.41,31,2,East,Physical Store,Spring,1,1
+SALE-00809,Sparkling Wine,135.03,29,0,East,Physical Store,Autumn,0,0
+SALE-00810,White Wine,41.03,79,4,West,Online,Autumn,1,0
+SALE-00811,Rose Wine,69.54,23,4,South,Online,Winter,0,1
+SALE-00812,Sparkling Wine,40.01,55,2,North,Physical Store,Autumn,1,0
+SALE-00813,Red Wine,41.59,23,3,East,Online,Winter,0,1
+SALE-00814,Sparkling Wine,31.09,73,13,West,Online,Spring,0,1
+SALE-00815,Sparkling Wine,34.58,43,10,East,Online,Autumn,0,1
+SALE-00816,Sparkling Wine,107.29,56,14,West,Physical Store,Autumn,0,0
+SALE-00817,Red Wine,51.49,45,7,North,Online,Winter,1,1
+SALE-00818,Sparkling Wine,145.6,59,2,North,Online,Spring,1,1
+SALE-00819,Red Wine,19.42,27,1,West,Physical Store,Winter,0,1
+SALE-00820,Red Wine,18.38,47,2,South,Online,Summer,1,0
+SALE-00821,Sparkling Wine,114.95,77,0,South,Physical Store,Summer,1,0
+SALE-00822,Red Wine,76.28,78,15,West,Physical Store,Winter,0,1
+SALE-00823,White Wine,102.35,39,9,West,Online,Spring,0,1
+SALE-00824,Sparkling Wine,135.31,45,9,South,Online,Autumn,0,0
+SALE-00825,Sparkling Wine,22.68,40,7,East,Online,Spring,1,1
+SALE-00826,Sparkling Wine,131.33,70,1,South,Physical Store,Spring,0,1
+SALE-00827,Red Wine,95.57,53,15,North,Physical Store,Autumn,0,0
+SALE-00828,Rose Wine,125.99,65,0,West,Physical Store,Winter,1,0
+SALE-00829,Sparkling Wine,117.22,71,13,West,Physical Store,Winter,1,1
+SALE-00830,Sparkling Wine,86.87,57,13,East,Online,Spring,1,1
+SALE-00831,Sparkling Wine,90.76,75,13,West,Online,Winter,0,0
+SALE-00832,Red Wine,62.35,48,9,East,Physical Store,Spring,1,1
+SALE-00833,Rose Wine,85.08,22,4,West,Online,Spring,0,0
+SALE-00834,Rose Wine,77.75,34,2,West,Physical Store,Winter,0,0
+SALE-00835,White Wine,59.11,78,6,West,Physical Store,Summer,1,1
+SALE-00836,Sparkling Wine,140.81,78,8,East,Physical Store,Autumn,1,1
+SALE-00837,White Wine,76.84,65,13,North,Online,Spring,0,1
+SALE-00838,Sparkling Wine,117.82,43,9,South,Online,Autumn,1,1
+SALE-00839,Red Wine,60.82,29,0,East,Physical Store,Spring,1,1
+SALE-00840,Sparkling Wine,139.3,64,0,South,Online,Autumn,1,0
+SALE-00841,Sparkling Wine,47.49,61,11,West,Physical Store,Spring,1,1
+SALE-00842,White Wine,23.3,69,11,West,Physical Store,Autumn,0,0
+SALE-00843,White Wine,104.4,33,8,North,Physical Store,Spring,0,0
+SALE-00844,Rose Wine,20.81,58,14,South,Online,Summer,0,1
+SALE-00845,Rose Wine,28.22,70,5,East,Physical Store,Winter,1,1
+SALE-00846,Red Wine,145.24,62,0,East,Online,Summer,0,0
+SALE-00847,White Wine,146.23,54,8,North,Online,Summer,0,0
+SALE-00848,Red Wine,133.04,36,3,North,Physical Store,Spring,1,1
+SALE-00849,Rose Wine,108.73,41,7,West,Physical Store,Winter,0,1
+SALE-00850,Rose Wine,136.29,71,5,East,Online,Summer,1,1
+SALE-00851,White Wine,49.04,76,7,North,Online,Winter,1,1
+SALE-00852,Red Wine,131.22,53,4,East,Online,Winter,0,0
+SALE-00853,Sparkling Wine,115.91,41,0,East,Physical Store,Winter,1,1
+SALE-00854,Sparkling Wine,30.88,76,4,South,Online,Summer,1,1
+SALE-00855,Rose Wine,107.79,69,10,North,Online,Summer,0,0
+SALE-00856,Rose Wine,98.61,47,11,North,Physical Store,Summer,0,1
+SALE-00857,White Wine,86.38,56,13,East,Physical Store,Autumn,1,1
+SALE-00858,White Wine,43.17,45,3,South,Physical Store,Summer,0,1
+SALE-00859,Red Wine,119.8,27,7,North,Online,Spring,1,1
+SALE-00860,Red Wine,58.78,51,2,North,Physical Store,Spring,0,0
+SALE-00861,White Wine,110.15,42,2,East,Physical Store,Autumn,1,1
+SALE-00862,White Wine,84.93,60,3,North,Online,Spring,1,1
+SALE-00863,Rose Wine,50.25,53,0,South,Physical Store,Winter,0,0
+SALE-00864,Rose Wine,124.85,26,3,West,Online,Autumn,1,1
+SALE-00865,Sparkling Wine,134.72,51,14,West,Online,Spring,0,1
+SALE-00866,Red Wine,111.4,61,4,South,Physical Store,Winter,1,1
+SALE-00867,Red Wine,69.95,42,5,West,Online,Winter,1,1
+SALE-00868,Red Wine,65.04,80,15,West,Online,Summer,1,1
+SALE-00869,Red Wine,78.4,52,13,East,Physical Store,Spring,0,1
+SALE-00870,White Wine,138.56,74,14,South,Online,Winter,0,1
+SALE-00871,Rose Wine,29.33,21,8,North,Physical Store,Spring,0,0
+SALE-00872,Sparkling Wine,124.53,69,14,West,Physical Store,Autumn,1,0
+SALE-00873,Red Wine,140.06,42,6,South,Online,Spring,0,1
+SALE-00874,Red Wine,20.23,34,2,North,Online,Spring,0,0
+SALE-00875,Sparkling Wine,119.11,36,12,North,Physical Store,Summer,0,0
+SALE-00876,White Wine,58.05,39,15,East,Physical Store,Spring,1,1
+SALE-00877,Rose Wine,118.98,63,13,West,Physical Store,Winter,0,1
+SALE-00878,White Wine,54.45,32,13,East,Physical Store,Autumn,0,0
+SALE-00879,Red Wine,31.93,29,2,East,Online,Winter,1,1
+SALE-00880,Sparkling Wine,68.33,28,15,West,Online,Autumn,0,1
+SALE-00881,Red Wine,37.95,62,7,South,Online,Winter,1,1
+SALE-00882,Sparkling Wine,75.11,58,1,East,Physical Store,Summer,0,1
+SALE-00883,Red Wine,137.52,28,0,East,Physical Store,Winter,0,1
+SALE-00884,White Wine,52.75,24,4,North,Online,Autumn,1,1
+SALE-00885,White Wine,93.22,57,2,North,Physical Store,Spring,1,1
+SALE-00886,Rose Wine,82.14,64,6,South,Physical Store,Winter,1,1
+SALE-00887,Sparkling Wine,131.63,21,8,North,Physical Store,Winter,1,1
+SALE-00888,Red Wine,92.4,70,12,North,Physical Store,Winter,1,1
+SALE-00889,White Wine,52.49,22,6,North,Physical Store,Spring,0,1
+SALE-00890,Rose Wine,122.3,66,11,North,Physical Store,Summer,0,1
+SALE-00891,Rose Wine,25.47,58,0,North,Online,Summer,0,0
+SALE-00892,Red Wine,88.43,57,10,West,Physical Store,Spring,1,1
+SALE-00893,Sparkling Wine,60.87,73,15,North,Physical Store,Autumn,0,1
+SALE-00894,White Wine,121.77,80,8,East,Physical Store,Autumn,0,0
+SALE-00895,White Wine,77.64,22,11,South,Online,Summer,1,1
+SALE-00896,Sparkling Wine,100.36,39,2,South,Online,Spring,0,0
+SALE-00897,Sparkling Wine,133.95,50,1,South,Physical Store,Spring,0,1
+SALE-00898,Sparkling Wine,53.94,26,4,West,Online,Winter,0,1
+SALE-00899,Red Wine,21.72,74,12,North,Physical Store,Winter,1,1
+SALE-00900,Red Wine,117.59,80,7,East,Physical Store,Autumn,0,0
+SALE-00901,Rose Wine,27.55,58,8,West,Physical Store,Winter,0,1
+SALE-00902,Sparkling Wine,24.02,21,14,East,Online,Spring,1,1
+SALE-00903,White Wine,51.11,62,14,East,Physical Store,Autumn,0,0
+SALE-00904,Sparkling Wine,82.67,31,6,South,Online,Autumn,0,1
+SALE-00905,Sparkling Wine,63.0,55,13,East,Online,Summer,1,1
+SALE-00906,Sparkling Wine,32.05,45,9,North,Physical Store,Winter,1,1
+SALE-00907,White Wine,129.82,36,0,South,Online,Summer,0,0
+SALE-00908,Rose Wine,148.29,24,11,East,Physical Store,Summer,0,1
+SALE-00909,White Wine,79.92,44,13,South,Physical Store,Spring,1,0
+SALE-00910,Red Wine,134.53,54,3,North,Physical Store,Winter,1,1
+SALE-00911,Sparkling Wine,122.69,49,0,North,Physical Store,Spring,1,1
+SALE-00912,Red Wine,90.2,26,11,South,Physical Store,Autumn,1,1
+SALE-00913,Rose Wine,123.95,65,12,South,Online,Winter,1,0
+SALE-00914,Rose Wine,15.42,74,2,South,Online,Winter,0,1
+SALE-00915,White Wine,100.96,68,3,West,Physical Store,Summer,1,0
+SALE-00916,Red Wine,24.79,22,3,West,Online,Spring,1,1
+SALE-00917,White Wine,20.89,46,10,North,Online,Winter,1,1
+SALE-00918,Rose Wine,90.9,68,12,West,Physical Store,Autumn,1,1
+SALE-00919,Sparkling Wine,114.49,57,4,West,Online,Winter,0,0
+SALE-00920,White Wine,104.39,23,7,South,Physical Store,Winter,0,0
+SALE-00921,Red Wine,140.55,58,1,South,Online,Autumn,0,0
+SALE-00922,White Wine,91.63,60,2,West,Physical Store,Spring,0,1
+SALE-00923,Rose Wine,90.42,40,10,East,Online,Autumn,1,1
+SALE-00924,White Wine,27.37,46,8,North,Online,Summer,0,1
+SALE-00925,Sparkling Wine,129.76,80,14,North,Physical Store,Summer,0,0
+SALE-00926,Sparkling Wine,128.99,29,15,South,Online,Spring,0,1
+SALE-00927,Sparkling Wine,76.32,37,6,South,Physical Store,Winter,0,0
+SALE-00928,Rose Wine,122.24,40,0,North,Physical Store,Autumn,1,1
+SALE-00929,Rose Wine,147.82,80,8,South,Physical Store,Autumn,0,0
+SALE-00930,Red Wine,97.87,77,7,East,Online,Spring,1,1
+SALE-00931,Sparkling Wine,99.94,25,5,East,Online,Spring,1,1
+SALE-00932,Red Wine,76.01,40,14,East,Physical Store,Spring,1,1
+SALE-00933,Rose Wine,139.59,56,7,West,Physical Store,Autumn,0,1
+SALE-00934,Red Wine,110.29,29,14,East,Online,Summer,1,1
+SALE-00935,Sparkling Wine,55.38,22,8,North,Physical Store,Spring,0,1
+SALE-00936,Rose Wine,92.88,59,11,North,Physical Store,Autumn,1,1
+SALE-00937,White Wine,78.09,53,0,West,Online,Spring,1,1
+SALE-00938,White Wine,63.59,78,5,North,Physical Store,Summer,1,1
+SALE-00939,Red Wine,61.85,23,12,East,Physical Store,Winter,1,1
+SALE-00940,Sparkling Wine,72.25,65,4,East,Physical Store,Autumn,1,0
+SALE-00941,Rose Wine,73.71,23,9,West,Online,Autumn,0,1
+SALE-00942,Rose Wine,18.97,25,0,South,Online,Spring,0,0
+SALE-00943,White Wine,70.69,25,14,North,Online,Autumn,1,1
+SALE-00944,Sparkling Wine,23.27,22,11,South,Physical Store,Summer,1,0
+SALE-00945,White Wine,115.39,22,3,East,Online,Winter,1,1
+SALE-00946,Sparkling Wine,97.47,76,4,West,Online,Summer,1,1
+SALE-00947,Rose Wine,20.05,50,0,West,Physical Store,Summer,1,0
+SALE-00948,Rose Wine,113.47,65,0,East,Physical Store,Summer,1,1
+SALE-00949,Rose Wine,115.18,80,14,West,Online,Summer,1,1
+SALE-00950,Red Wine,41.45,68,14,South,Physical Store,Winter,0,1
+SALE-00951,Rose Wine,119.5,63,4,North,Online,Winter,0,1
+SALE-00952,White Wine,55.73,42,8,West,Online,Winter,0,0
+SALE-00953,Rose Wine,55.41,68,14,North,Physical Store,Summer,0,1
+SALE-00954,Sparkling Wine,76.69,57,6,East,Physical Store,Summer,0,1
+SALE-00955,Rose Wine,25.56,59,2,East,Physical Store,Spring,0,1
+SALE-00956,White Wine,48.07,22,13,South,Online,Summer,1,1
+SALE-00957,Red Wine,128.64,58,11,East,Physical Store,Winter,0,0
+SALE-00958,Rose Wine,81.04,54,9,North,Physical Store,Spring,1,0
+SALE-00959,Sparkling Wine,21.68,49,7,East,Online,Spring,1,1
+SALE-00960,White Wine,142.7,22,10,North,Online,Summer,0,1
+SALE-00961,Red Wine,117.28,35,5,North,Online,Spring,1,0
+SALE-00962,White Wine,125.41,74,12,East,Physical Store,Summer,0,1
+SALE-00963,Rose Wine,85.33,44,0,East,Physical Store,Summer,1,1
+SALE-00964,Sparkling Wine,120.64,38,8,East,Physical Store,Winter,0,0
+SALE-00965,Sparkling Wine,116.81,42,10,West,Physical Store,Spring,1,1
+SALE-00966,White Wine,102.7,78,4,North,Physical Store,Autumn,0,0
+SALE-00967,Red Wine,54.38,67,8,North,Physical Store,Autumn,0,1
+SALE-00968,Red Wine,114.89,33,3,North,Physical Store,Summer,0,1
+SALE-00969,Sparkling Wine,34.16,73,5,North,Physical Store,Winter,0,0
+SALE-00970,Rose Wine,125.49,30,14,West,Online,Winter,0,0
+SALE-00971,Rose Wine,42.78,31,7,West,Online,Spring,0,0
+SALE-00972,Rose Wine,26.31,58,4,West,Online,Spring,1,1
+SALE-00973,Red Wine,80.19,57,4,North,Online,Spring,0,0
+SALE-00974,White Wine,94.45,52,9,North,Physical Store,Spring,0,0
+SALE-00975,Rose Wine,81.03,56,11,West,Online,Spring,1,0
+SALE-00976,White Wine,88.92,75,6,West,Physical Store,Autumn,0,0
+SALE-00977,Rose Wine,76.4,65,13,North,Physical Store,Summer,0,0
+SALE-00978,White Wine,115.83,34,1,North,Physical Store,Autumn,0,0
+SALE-00979,Sparkling Wine,40.02,72,1,East,Physical Store,Summer,0,1
+SALE-00980,White Wine,68.23,59,4,East,Online,Spring,0,0
+SALE-00981,White Wine,116.17,73,15,South,Physical Store,Spring,1,0
+SALE-00982,Red Wine,107.95,40,0,South,Online,Summer,1,1
+SALE-00983,White Wine,68.24,43,2,North,Online,Winter,1,1
+SALE-00984,Sparkling Wine,49.99,78,14,South,Online,Spring,1,1
+SALE-00985,Red Wine,91.26,52,6,East,Online,Summer,0,0
+SALE-00986,Sparkling Wine,96.33,35,15,South,Physical Store,Spring,1,1
+SALE-00987,Rose Wine,91.86,79,15,East,Physical Store,Spring,1,1
+SALE-00988,White Wine,39.11,27,15,North,Physical Store,Autumn,1,0
+SALE-00989,Red Wine,63.32,23,13,South,Online,Autumn,0,1
+SALE-00990,White Wine,140.9,73,8,East,Physical Store,Spring,0,0
+SALE-00991,Red Wine,112.69,67,7,North,Online,Spring,0,0
+SALE-00992,Rose Wine,110.34,39,4,East,Online,Winter,0,0
+SALE-00993,Red Wine,44.96,60,10,North,Online,Summer,1,1
+SALE-00994,White Wine,79.69,38,7,South,Physical Store,Autumn,0,1
+SALE-00995,Rose Wine,92.82,27,1,West,Online,Winter,0,0
+SALE-00996,Rose Wine,144.16,43,10,West,Online,Autumn,0,1
+SALE-00997,Sparkling Wine,92.26,33,7,East,Online,Summer,1,1
+SALE-00998,White Wine,46.11,46,13,East,Physical Store,Winter,0,1
+SALE-00999,White Wine,50.37,57,12,East,Online,Spring,0,1
+SALE-01000,Red Wine,123.1,39,10,North,Physical Store,Autumn,1,1
+SALE-01001,Sparkling Wine,111.65,46,10,South,Online,Spring,0,1
+SALE-01002,Sparkling Wine,119.62,30,13,East,Physical Store,Winter,0,0
+SALE-01003,Rose Wine,16.63,61,3,East,Physical Store,Winter,1,1
+SALE-01004,Rose Wine,15.32,33,11,North,Physical Store,Winter,0,1
+SALE-01005,White Wine,42.43,35,8,North,Online,Winter,0,1
+SALE-01006,Red Wine,126.03,34,12,North,Physical Store,Summer,0,1
+SALE-01007,Sparkling Wine,93.92,52,6,South,Online,Spring,1,1
+SALE-01008,Red Wine,33.45,61,15,South,Physical Store,Winter,0,0
+SALE-01009,White Wine,147.97,80,13,West,Physical Store,Autumn,1,0
+SALE-01010,Sparkling Wine,67.9,30,8,North,Physical Store,Spring,1,1
+SALE-01011,Red Wine,30.23,40,0,East,Online,Autumn,0,0
+SALE-01012,Rose Wine,45.92,65,15,South,Physical Store,Winter,0,1
+SALE-01013,Rose Wine,24.75,60,8,East,Online,Spring,1,1
+SALE-01014,Red Wine,63.88,80,7,South,Online,Summer,1,1
+SALE-01015,White Wine,88.95,67,0,East,Online,Summer,1,0
+SALE-01016,Red Wine,29.07,48,12,North,Online,Autumn,0,0
+SALE-01017,Red Wine,50.7,32,0,East,Online,Winter,0,1
+SALE-01018,White Wine,77.74,31,8,West,Physical Store,Winter,0,1
+SALE-01019,White Wine,129.47,28,5,West,Online,Summer,0,0
+SALE-01020,Red Wine,145.61,63,13,South,Online,Winter,1,1
+SALE-01021,Rose Wine,72.78,75,1,South,Physical Store,Summer,1,0
+SALE-01022,Sparkling Wine,122.61,51,2,East,Online,Winter,1,1
+SALE-01023,Rose Wine,46.77,37,13,North,Online,Spring,1,1
+SALE-01024,Sparkling Wine,16.89,78,14,East,Online,Summer,0,0
+SALE-01025,Red Wine,23.29,22,4,North,Physical Store,Winter,0,0
+SALE-01026,Red Wine,88.43,68,15,South,Physical Store,Autumn,1,1
+SALE-01027,Rose Wine,44.17,67,15,East,Online,Winter,1,1
+SALE-01028,Rose Wine,74.91,66,0,East,Online,Autumn,0,1
+SALE-01029,Sparkling Wine,45.87,38,9,West,Physical Store,Winter,0,1
+SALE-01030,Red Wine,21.78,39,6,West,Physical Store,Autumn,0,1
+SALE-01031,White Wine,63.01,43,8,North,Online,Autumn,1,0
+SALE-01032,Rose Wine,131.75,22,10,East,Online,Spring,1,1
+SALE-01033,White Wine,28.05,42,10,West,Online,Autumn,0,1
+SALE-01034,White Wine,114.6,70,13,South,Online,Autumn,1,0
+SALE-01035,White Wine,121.62,38,7,East,Online,Winter,1,1
+SALE-01036,Sparkling Wine,82.7,26,1,East,Physical Store,Summer,0,1
+SALE-01037,Rose Wine,40.49,43,1,North,Physical Store,Autumn,0,1
+SALE-01038,Sparkling Wine,103.25,66,4,North,Physical Store,Summer,0,0
+SALE-01039,Sparkling Wine,54.2,36,9,East,Online,Summer,0,1
+SALE-01040,White Wine,51.34,71,13,East,Online,Spring,1,0
+SALE-01041,Sparkling Wine,56.84,44,14,North,Physical Store,Autumn,0,0
+SALE-01042,Sparkling Wine,86.0,27,10,West,Physical Store,Winter,1,1
+SALE-01043,Rose Wine,28.85,60,12,West,Online,Autumn,1,1
+SALE-01044,Red Wine,56.05,54,11,East,Physical Store,Spring,1,1
+SALE-01045,Red Wine,54.1,42,2,North,Online,Winter,1,1
+SALE-01046,White Wine,55.88,21,6,South,Online,Autumn,1,1
+SALE-01047,Red Wine,86.29,35,3,South,Physical Store,Summer,0,0
+SALE-01048,Rose Wine,65.09,57,6,West,Online,Autumn,0,0
+SALE-01049,White Wine,114.37,76,14,South,Online,Autumn,0,1
+SALE-01050,Red Wine,105.78,29,9,West,Physical Store,Winter,0,1
+SALE-01051,Rose Wine,136.69,76,4,West,Online,Autumn,0,0
+SALE-01052,Rose Wine,20.94,71,8,South,Online,Summer,1,1
+SALE-01053,Red Wine,47.51,37,8,East,Online,Winter,1,1
+SALE-01054,White Wine,77.59,23,7,North,Online,Spring,1,1
+SALE-01055,Red Wine,38.69,46,15,North,Online,Winter,0,1
+SALE-01056,Red Wine,38.51,37,15,West,Online,Winter,0,1
+SALE-01057,White Wine,58.44,66,6,South,Online,Summer,1,1
+SALE-01058,Red Wine,47.71,28,3,South,Online,Winter,1,1
+SALE-01059,Rose Wine,79.09,78,13,West,Online,Summer,1,1
+SALE-01060,Rose Wine,59.24,52,14,South,Physical Store,Summer,0,0
+SALE-01061,Rose Wine,96.97,69,15,South,Physical Store,Autumn,1,1
+SALE-01062,White Wine,54.16,52,5,East,Online,Autumn,1,0
+SALE-01063,Sparkling Wine,57.83,75,4,West,Online,Spring,1,1
+SALE-01064,White Wine,67.84,71,10,West,Online,Autumn,0,1
+SALE-01065,Red Wine,52.5,22,15,South,Online,Summer,1,0
+SALE-01066,White Wine,83.58,27,2,West,Physical Store,Autumn,0,0
+SALE-01067,Rose Wine,86.99,53,3,North,Online,Autumn,1,1
+SALE-01068,Rose Wine,146.17,46,3,East,Physical Store,Autumn,1,1
+SALE-01069,Rose Wine,20.29,39,10,South,Physical Store,Autumn,0,1
+SALE-01070,White Wine,42.9,29,15,West,Online,Winter,1,1
+SALE-01071,White Wine,20.82,24,3,West,Physical Store,Summer,0,0
+SALE-01072,Red Wine,81.52,67,8,South,Online,Summer,1,1
+SALE-01073,Sparkling Wine,73.86,68,4,East,Physical Store,Summer,1,1
+SALE-01074,Rose Wine,117.07,63,12,East,Physical Store,Winter,1,1
+SALE-01075,White Wine,80.27,75,1,East,Physical Store,Summer,1,1
+SALE-01076,Rose Wine,77.45,35,8,South,Physical Store,Spring,1,1
+SALE-01077,White Wine,62.0,63,1,North,Online,Spring,1,0
+SALE-01078,Red Wine,25.68,25,5,North,Online,Autumn,0,1
+SALE-01079,Rose Wine,20.59,48,12,West,Online,Autumn,0,1
+SALE-01080,White Wine,59.7,59,14,North,Physical Store,Summer,1,1
+SALE-01081,Red Wine,147.68,53,6,North,Online,Winter,0,1
+SALE-01082,Sparkling Wine,51.92,22,5,West,Online,Summer,0,1
+SALE-01083,Rose Wine,55.09,28,3,North,Online,Winter,0,0
+SALE-01084,White Wine,109.64,61,13,West,Physical Store,Autumn,0,0
+SALE-01085,Rose Wine,109.64,73,0,North,Online,Autumn,0,1
+SALE-01086,White Wine,18.43,61,3,North,Physical Store,Autumn,0,0
+SALE-01087,White Wine,103.65,50,13,East,Online,Autumn,0,0
+SALE-01088,Rose Wine,67.81,55,0,East,Physical Store,Winter,0,1
+SALE-01089,White Wine,78.55,28,3,East,Online,Autumn,0,0
+SALE-01090,White Wine,136.58,75,7,East,Physical Store,Winter,1,0
+SALE-01091,Red Wine,99.78,47,2,East,Online,Summer,0,0
+SALE-01092,Sparkling Wine,25.65,73,11,North,Online,Summer,0,0
+SALE-01093,White Wine,43.49,74,14,North,Online,Winter,1,1
+SALE-01094,Rose Wine,59.35,64,1,East,Online,Autumn,1,0
+SALE-01095,Rose Wine,28.27,58,15,South,Physical Store,Spring,0,1
+SALE-01096,White Wine,43.87,66,14,North,Online,Spring,1,1
+SALE-01097,Rose Wine,81.3,80,6,East,Physical Store,Summer,0,1
+SALE-01098,Rose Wine,19.41,49,8,East,Online,Autumn,1,1
+SALE-01099,Rose Wine,101.55,54,11,East,Physical Store,Summer,0,0
+SALE-01100,Sparkling Wine,134.92,71,6,East,Online,Summer,1,1
+SALE-01101,Rose Wine,120.41,30,6,West,Online,Spring,1,1
+SALE-01102,White Wine,138.33,46,13,South,Physical Store,Autumn,1,1
+SALE-01103,Sparkling Wine,31.52,51,4,North,Physical Store,Summer,0,1
+SALE-01104,White Wine,117.92,46,7,North,Physical Store,Spring,0,0
+SALE-01105,Sparkling Wine,147.08,27,12,South,Physical Store,Winter,1,1
+SALE-01106,Rose Wine,145.71,65,3,East,Physical Store,Autumn,1,1
+SALE-01107,Red Wine,42.38,26,3,South,Physical Store,Summer,1,1
+SALE-01108,Red Wine,131.43,66,13,West,Physical Store,Winter,0,1
+SALE-01109,Red Wine,76.85,34,14,South,Physical Store,Autumn,0,1
+SALE-01110,White Wine,22.42,76,5,East,Physical Store,Spring,1,0
+SALE-01111,Rose Wine,57.29,47,5,West,Online,Summer,1,1
+SALE-01112,White Wine,17.04,24,3,East,Online,Spring,0,1
+SALE-01113,White Wine,110.89,55,14,North,Online,Summer,1,1
+SALE-01114,White Wine,102.83,58,13,East,Physical Store,Summer,1,1
+SALE-01115,Rose Wine,122.08,50,4,West,Physical Store,Winter,1,0
+SALE-01116,Sparkling Wine,102.64,69,11,East,Online,Autumn,1,1
+SALE-01117,Red Wine,93.11,61,13,East,Physical Store,Winter,1,1
+SALE-01118,Rose Wine,33.76,51,10,East,Physical Store,Spring,1,0
+SALE-01119,Rose Wine,29.62,42,6,South,Physical Store,Spring,0,1
+SALE-01120,White Wine,84.36,75,9,West,Online,Spring,0,1
+SALE-01121,Sparkling Wine,23.1,46,3,North,Physical Store,Spring,1,1
+SALE-01122,Sparkling Wine,61.86,50,13,South,Online,Spring,1,1
+SALE-01123,Red Wine,91.58,47,9,East,Online,Autumn,0,1
+SALE-01124,Sparkling Wine,107.37,67,13,South,Physical Store,Spring,1,1
+SALE-01125,White Wine,69.63,56,14,South,Physical Store,Summer,1,0
+SALE-01126,Sparkling Wine,111.49,55,3,East,Online,Autumn,1,1
+SALE-01127,White Wine,131.37,70,9,North,Physical Store,Spring,0,0
+SALE-01128,White Wine,117.07,62,5,North,Online,Winter,1,1
+SALE-01129,Rose Wine,104.95,23,14,South,Online,Spring,0,0
+SALE-01130,Red Wine,61.87,78,6,East,Physical Store,Winter,0,1
+SALE-01131,Rose Wine,84.8,49,4,East,Physical Store,Summer,0,0
+SALE-01132,Red Wine,88.99,57,13,North,Physical Store,Autumn,1,0
+SALE-01133,Sparkling Wine,72.08,21,4,South,Physical Store,Autumn,1,1
+SALE-01134,Rose Wine,102.46,23,11,West,Online,Spring,0,0
+SALE-01135,Red Wine,29.08,48,14,East,Online,Autumn,0,1
+SALE-01136,Red Wine,81.06,53,15,South,Physical Store,Winter,0,0
+SALE-01137,Sparkling Wine,16.49,55,3,East,Physical Store,Spring,1,1
+SALE-01138,Red Wine,145.91,74,15,South,Physical Store,Summer,0,1
+SALE-01139,Sparkling Wine,111.37,43,13,West,Online,Spring,0,0
+SALE-01140,Rose Wine,88.79,38,2,East,Physical Store,Autumn,0,0
+SALE-01141,Red Wine,108.76,80,14,North,Online,Summer,0,1
+SALE-01142,Rose Wine,58.8,25,1,West,Physical Store,Spring,1,1
+SALE-01143,Sparkling Wine,48.54,50,10,North,Online,Autumn,0,0
+SALE-01144,Rose Wine,71.9,43,5,North,Online,Winter,0,0
+SALE-01145,Red Wine,22.84,50,0,West,Physical Store,Summer,1,0
+SALE-01146,Rose Wine,142.97,75,0,East,Physical Store,Spring,0,0
+SALE-01147,Sparkling Wine,115.05,70,1,North,Physical Store,Spring,1,1
+SALE-01148,Sparkling Wine,97.37,51,4,North,Online,Winter,1,1
+SALE-01149,Sparkling Wine,146.24,41,9,North,Online,Winter,0,1
+SALE-01150,Red Wine,47.02,55,3,West,Online,Spring,1,0
+SALE-01151,Sparkling Wine,23.16,42,11,West,Physical Store,Spring,1,1
+SALE-01152,Red Wine,128.46,31,9,East,Physical Store,Summer,1,1
+SALE-01153,Rose Wine,40.05,31,10,South,Physical Store,Spring,0,1
+SALE-01154,Red Wine,40.92,61,15,South,Physical Store,Autumn,0,1
+SALE-01155,Rose Wine,31.66,76,13,West,Physical Store,Summer,0,0
+SALE-01156,White Wine,96.79,50,3,East,Online,Winter,1,1
+SALE-01157,Sparkling Wine,53.82,66,14,West,Physical Store,Spring,1,1
+SALE-01158,Rose Wine,94.31,21,1,North,Online,Autumn,1,0
+SALE-01159,Rose Wine,55.88,44,13,East,Physical Store,Autumn,0,0
+SALE-01160,Red Wine,35.5,68,1,South,Physical Store,Summer,1,1
+SALE-01161,Sparkling Wine,136.35,46,14,East,Physical Store,Summer,1,1
+SALE-01162,White Wine,44.21,52,1,North,Online,Winter,0,0
+SALE-01163,Red Wine,50.76,70,3,South,Online,Summer,1,0
+SALE-01164,Sparkling Wine,52.96,34,6,North,Physical Store,Spring,1,0
+SALE-01165,Red Wine,82.41,35,2,East,Online,Winter,0,1
+SALE-01166,Rose Wine,133.51,21,3,South,Physical Store,Winter,0,0
+SALE-01167,Red Wine,84.29,46,6,North,Physical Store,Autumn,0,1
+SALE-01168,Sparkling Wine,29.47,29,4,North,Physical Store,Spring,1,1
+SALE-01169,Rose Wine,75.2,36,4,West,Physical Store,Autumn,1,0
+SALE-01170,Red Wine,81.67,48,2,North,Online,Autumn,0,0
+SALE-01171,Red Wine,24.58,27,2,East,Physical Store,Autumn,1,1
+SALE-01172,Sparkling Wine,135.42,44,10,West,Online,Autumn,1,1
+SALE-01173,Rose Wine,37.05,36,13,West,Online,Summer,1,1
+SALE-01174,White Wine,107.68,32,11,West,Physical Store,Winter,0,0
+SALE-01175,Sparkling Wine,17.51,65,13,East,Physical Store,Winter,1,1
+SALE-01176,Sparkling Wine,138.8,52,1,East,Physical Store,Summer,1,0
+SALE-01177,Red Wine,49.46,54,5,South,Physical Store,Spring,0,0
+SALE-01178,Red Wine,149.57,25,8,West,Physical Store,Spring,0,0
+SALE-01179,Rose Wine,123.72,48,3,North,Online,Spring,0,0
+SALE-01180,Red Wine,102.08,54,7,North,Online,Autumn,0,1
+SALE-01181,Sparkling Wine,146.51,63,2,East,Physical Store,Spring,0,1
+SALE-01182,White Wine,26.23,41,11,East,Online,Winter,1,1
+SALE-01183,Red Wine,105.94,35,8,East,Online,Spring,0,1
+SALE-01184,White Wine,92.15,30,10,South,Physical Store,Winter,0,1
+SALE-01185,Sparkling Wine,100.47,69,3,East,Online,Winter,0,0
+SALE-01186,Rose Wine,98.23,35,10,North,Online,Autumn,1,1
+SALE-01187,Sparkling Wine,24.37,23,1,West,Online,Winter,1,1
+SALE-01188,Sparkling Wine,72.4,78,10,West,Online,Spring,0,1
+SALE-01189,Rose Wine,116.77,36,12,South,Online,Autumn,1,1
+SALE-01190,Red Wine,89.16,21,12,East,Physical Store,Autumn,0,0
+SALE-01191,Red Wine,87.51,31,15,West,Physical Store,Summer,1,1
+SALE-01192,Rose Wine,129.76,28,9,North,Online,Spring,1,1
+SALE-01193,Rose Wine,19.14,59,10,East,Online,Spring,1,1
+SALE-01194,Red Wine,89.67,77,7,East,Online,Spring,0,1
+SALE-01195,Rose Wine,117.46,39,6,South,Online,Spring,0,1
+SALE-01196,Rose Wine,45.59,33,14,South,Physical Store,Winter,0,1
+SALE-01197,Sparkling Wine,112.43,63,10,West,Physical Store,Summer,0,0
+SALE-01198,Sparkling Wine,122.89,46,2,North,Physical Store,Winter,0,0
+SALE-01199,Sparkling Wine,17.57,26,7,South,Online,Spring,0,1
+SALE-01200,White Wine,147.84,71,6,West,Online,Summer,1,1
+SALE-01201,Red Wine,55.88,23,4,East,Physical Store,Winter,1,1
+SALE-01202,White Wine,79.34,52,1,South,Physical Store,Summer,0,1
+SALE-01203,Rose Wine,89.86,34,15,South,Physical Store,Spring,0,1
+SALE-01204,Red Wine,56.92,78,10,East,Online,Summer,1,1
+SALE-01205,White Wine,23.05,77,7,North,Physical Store,Spring,1,0
+SALE-01206,White Wine,17.09,56,2,North,Online,Summer,0,1
+SALE-01207,White Wine,60.32,61,7,North,Physical Store,Summer,1,0
+SALE-01208,Rose Wine,135.73,47,13,North,Online,Autumn,0,0
+SALE-01209,Sparkling Wine,68.21,60,0,North,Physical Store,Summer,0,0
+SALE-01210,Sparkling Wine,39.78,65,8,South,Physical Store,Winter,0,1
+SALE-01211,Sparkling Wine,48.92,40,4,East,Physical Store,Spring,1,1
+SALE-01212,Rose Wine,25.32,35,1,West,Physical Store,Winter,0,0
+SALE-01213,Rose Wine,96.35,54,7,West,Online,Summer,1,1
+SALE-01214,White Wine,55.23,52,9,East,Physical Store,Spring,1,1
+SALE-01215,Red Wine,89.11,59,14,North,Online,Summer,1,1
+SALE-01216,White Wine,117.32,35,8,East,Online,Spring,1,1
+SALE-01217,Red Wine,76.23,60,14,North,Online,Summer,0,1
+SALE-01218,Rose Wine,131.65,71,15,South,Online,Winter,0,0
+SALE-01219,White Wine,75.41,46,2,North,Online,Autumn,0,0
+SALE-01220,Rose Wine,134.21,75,5,South,Online,Spring,1,0
+SALE-01221,Red Wine,100.11,54,1,North,Physical Store,Winter,1,1
+SALE-01222,White Wine,103.72,26,10,West,Physical Store,Summer,1,1
+SALE-01223,White Wine,139.99,66,5,East,Physical Store,Autumn,1,1
+SALE-01224,Sparkling Wine,16.75,45,15,West,Physical Store,Autumn,1,1
+SALE-01225,Sparkling Wine,119.34,69,11,East,Physical Store,Autumn,0,1
+SALE-01226,Red Wine,137.95,30,11,East,Online,Summer,0,1
+SALE-01227,Red Wine,79.34,74,12,West,Online,Autumn,0,1
+SALE-01228,White Wine,139.08,37,0,South,Physical Store,Winter,1,1
+SALE-01229,Red Wine,71.23,48,8,North,Online,Summer,0,1
+SALE-01230,Red Wine,90.53,53,15,South,Online,Summer,1,1
+SALE-01231,Red Wine,31.39,34,14,East,Physical Store,Summer,1,1
+SALE-01232,Sparkling Wine,42.94,48,3,North,Online,Spring,0,1
+SALE-01233,Rose Wine,22.86,65,1,East,Physical Store,Autumn,0,0
+SALE-01234,Red Wine,21.19,62,15,South,Physical Store,Spring,1,1
+SALE-01235,Red Wine,50.8,51,11,West,Physical Store,Spring,1,1
+SALE-01236,Rose Wine,124.55,48,3,East,Online,Summer,0,0
+SALE-01237,White Wine,53.21,40,9,North,Physical Store,Summer,0,1
+SALE-01238,White Wine,33.1,25,6,South,Physical Store,Autumn,0,0
+SALE-01239,White Wine,122.98,22,11,North,Physical Store,Spring,0,0
+SALE-01240,Red Wine,88.95,43,3,North,Physical Store,Summer,0,1
+SALE-01241,White Wine,89.94,59,2,East,Physical Store,Winter,1,1
+SALE-01242,Sparkling Wine,69.56,61,0,South,Online,Summer,0,0
+SALE-01243,Red Wine,73.39,53,1,South,Online,Autumn,1,1
+SALE-01244,Red Wine,84.13,41,0,North,Online,Autumn,0,1
+SALE-01245,Sparkling Wine,108.62,35,14,East,Physical Store,Summer,1,1
+SALE-01246,Rose Wine,67.77,75,6,North,Online,Winter,1,1
+SALE-01247,Red Wine,33.94,51,13,East,Physical Store,Spring,1,1
+SALE-01248,Red Wine,136.54,30,11,South,Physical Store,Autumn,0,0
+SALE-01249,White Wine,90.33,51,7,East,Physical Store,Winter,1,0
+SALE-01250,Sparkling Wine,82.03,73,11,South,Online,Winter,1,1
+SALE-01251,Red Wine,64.16,51,7,West,Physical Store,Autumn,0,1
+SALE-01252,White Wine,96.16,32,11,North,Online,Winter,1,1
+SALE-01253,Sparkling Wine,23.56,26,14,East,Physical Store,Spring,0,0
+SALE-01254,White Wine,39.9,61,12,West,Online,Autumn,0,1
+SALE-01255,Red Wine,66.0,40,0,East,Physical Store,Summer,0,0
+SALE-01256,Sparkling Wine,40.51,51,5,North,Online,Summer,1,1
+SALE-01257,White Wine,138.79,67,4,South,Online,Winter,1,1
+SALE-01258,Rose Wine,117.71,60,15,West,Online,Spring,1,1
+SALE-01259,Red Wine,124.13,73,12,West,Physical Store,Spring,0,0
+SALE-01260,Sparkling Wine,42.87,63,9,East,Physical Store,Summer,0,1
+SALE-01261,Red Wine,58.46,63,11,North,Physical Store,Summer,0,1
+SALE-01262,Rose Wine,49.03,21,7,North,Online,Summer,0,0
+SALE-01263,White Wine,90.39,72,2,West,Online,Autumn,1,0
+SALE-01264,Rose Wine,95.84,56,3,West,Online,Spring,0,0
+SALE-01265,Sparkling Wine,87.51,47,3,North,Online,Summer,0,1
+SALE-01266,White Wine,46.89,51,13,East,Online,Spring,1,1
+SALE-01267,Sparkling Wine,104.11,41,4,North,Physical Store,Winter,1,1
+SALE-01268,White Wine,16.7,68,1,North,Physical Store,Summer,1,1
+SALE-01269,Sparkling Wine,82.45,39,5,North,Physical Store,Spring,0,0
+SALE-01270,White Wine,146.23,24,2,North,Physical Store,Spring,1,1
+SALE-01271,Rose Wine,47.38,54,1,South,Physical Store,Spring,0,0
+SALE-01272,Sparkling Wine,85.4,56,12,North,Online,Summer,0,0
+SALE-01273,Sparkling Wine,136.0,63,3,East,Physical Store,Winter,1,1
+SALE-01274,White Wine,91.09,49,9,West,Online,Autumn,1,1
+SALE-01275,White Wine,136.91,59,13,East,Physical Store,Summer,0,0
+SALE-01276,Rose Wine,70.58,45,5,South,Physical Store,Spring,0,1
+SALE-01277,Rose Wine,147.84,43,2,North,Physical Store,Spring,0,0
+SALE-01278,Rose Wine,140.77,46,1,East,Physical Store,Spring,0,0
+SALE-01279,Sparkling Wine,78.79,30,4,South,Physical Store,Summer,1,1
+SALE-01280,Red Wine,24.36,28,4,South,Physical Store,Spring,1,0
+SALE-01281,Sparkling Wine,38.6,35,12,West,Online,Summer,0,1
+SALE-01282,Sparkling Wine,83.17,51,2,South,Online,Summer,0,0
+SALE-01283,Red Wine,87.75,26,3,West,Online,Autumn,1,1
+SALE-01284,Rose Wine,133.87,62,7,North,Physical Store,Winter,1,1
+SALE-01285,White Wine,22.33,28,10,East,Online,Spring,0,1
+SALE-01286,Rose Wine,92.86,55,4,West,Physical Store,Autumn,0,1
+SALE-01287,White Wine,82.08,67,11,South,Physical Store,Summer,0,0
+SALE-01288,Rose Wine,125.63,30,7,West,Online,Summer,0,0
+SALE-01289,Red Wine,28.12,33,9,East,Online,Autumn,1,1
+SALE-01290,Sparkling Wine,46.31,22,12,East,Physical Store,Winter,1,0
+SALE-01291,Sparkling Wine,121.7,61,10,North,Physical Store,Winter,1,0
+SALE-01292,Rose Wine,108.3,30,13,North,Online,Spring,0,1
+SALE-01293,White Wine,41.01,29,7,East,Online,Summer,0,1
+SALE-01294,Rose Wine,109.85,29,2,East,Online,Winter,0,0
+SALE-01295,Rose Wine,131.16,64,15,West,Physical Store,Winter,0,0
+SALE-01296,Sparkling Wine,40.33,48,10,North,Physical Store,Autumn,1,1
+SALE-01297,Sparkling Wine,144.19,69,12,West,Online,Summer,0,0
+SALE-01298,Sparkling Wine,40.44,30,9,South,Online,Summer,1,1
+SALE-01299,White Wine,59.37,79,10,East,Physical Store,Autumn,1,1
+SALE-01300,Rose Wine,47.87,34,0,West,Online,Winter,0,1
+SALE-01301,Sparkling Wine,78.4,80,8,North,Physical Store,Spring,0,1
+SALE-01302,White Wine,32.52,45,11,North,Online,Winter,1,1
+SALE-01303,Rose Wine,80.65,22,0,North,Physical Store,Winter,0,0
+SALE-01304,Rose Wine,69.79,37,10,North,Physical Store,Summer,1,1
+SALE-01305,Sparkling Wine,147.11,30,10,East,Online,Autumn,0,0
+SALE-01306,Red Wine,118.55,76,15,West,Online,Winter,1,1
+SALE-01307,Rose Wine,117.67,80,10,South,Physical Store,Summer,0,0
+SALE-01308,Sparkling Wine,26.6,74,15,North,Physical Store,Summer,0,0
+SALE-01309,White Wine,124.96,21,3,East,Physical Store,Spring,1,1
+SALE-01310,Rose Wine,91.01,29,0,West,Online,Autumn,0,1
+SALE-01311,White Wine,119.65,38,11,North,Online,Summer,0,0
+SALE-01312,White Wine,47.31,27,2,West,Online,Summer,0,0
+SALE-01313,White Wine,21.53,58,4,East,Online,Autumn,0,0
+SALE-01314,Red Wine,34.71,45,9,West,Physical Store,Winter,1,0
+SALE-01315,Sparkling Wine,35.18,35,5,East,Physical Store,Summer,0,0
+SALE-01316,Red Wine,26.85,52,0,North,Physical Store,Spring,0,1
+SALE-01317,Rose Wine,107.26,44,4,East,Physical Store,Spring,1,1
+SALE-01318,Rose Wine,147.07,39,6,East,Physical Store,Spring,0,1
+SALE-01319,Red Wine,58.39,76,9,East,Physical Store,Spring,0,0
+SALE-01320,Sparkling Wine,48.0,22,13,East,Physical Store,Autumn,1,0
+SALE-01321,Red Wine,47.37,30,6,South,Physical Store,Autumn,0,1
+SALE-01322,Red Wine,114.06,55,6,East,Online,Spring,1,1
+SALE-01323,Sparkling Wine,106.54,78,12,West,Online,Autumn,1,1
+SALE-01324,White Wine,99.26,38,0,South,Physical Store,Summer,1,0
+SALE-01325,White Wine,26.36,33,2,South,Physical Store,Spring,1,1
+SALE-01326,Red Wine,15.16,69,5,South,Online,Winter,1,1
+SALE-01327,Red Wine,149.9,72,9,North,Online,Autumn,1,0
+SALE-01328,White Wine,120.9,74,5,South,Physical Store,Spring,1,0
+SALE-01329,White Wine,68.82,56,14,North,Physical Store,Winter,0,1
+SALE-01330,Red Wine,141.67,67,2,North,Physical Store,Spring,0,0
+SALE-01331,White Wine,16.68,50,6,North,Physical Store,Summer,1,1
+SALE-01332,Red Wine,138.6,37,14,East,Online,Autumn,1,1
+SALE-01333,White Wine,63.24,26,8,North,Physical Store,Winter,1,1
+SALE-01334,Rose Wine,142.57,22,11,South,Physical Store,Spring,1,1
+SALE-01335,Rose Wine,32.68,56,12,West,Physical Store,Summer,0,1
+SALE-01336,Red Wine,51.59,67,7,East,Physical Store,Spring,0,1
+SALE-01337,Red Wine,18.55,32,4,West,Physical Store,Autumn,1,0
+SALE-01338,Sparkling Wine,112.98,31,14,West,Online,Autumn,1,1
+SALE-01339,Rose Wine,21.51,23,6,West,Physical Store,Autumn,1,1
+SALE-01340,Red Wine,19.85,69,12,East,Physical Store,Autumn,0,1
+SALE-01341,Sparkling Wine,40.99,34,11,North,Online,Spring,0,1
+SALE-01342,Sparkling Wine,24.42,25,5,North,Physical Store,Winter,0,0
+SALE-01343,White Wine,60.2,41,9,South,Online,Spring,0,0
+SALE-01344,White Wine,20.14,75,6,West,Online,Spring,0,1
+SALE-01345,White Wine,105.23,73,6,East,Physical Store,Summer,1,0
+SALE-01346,Rose Wine,57.62,29,2,North,Physical Store,Summer,1,0
+SALE-01347,Rose Wine,141.34,34,4,South,Online,Autumn,1,1
+SALE-01348,Red Wine,63.66,79,6,North,Physical Store,Spring,1,1
+SALE-01349,Red Wine,34.11,32,13,West,Physical Store,Summer,0,1
+SALE-01350,Red Wine,56.23,26,4,East,Physical Store,Spring,0,0
+SALE-01351,White Wine,121.23,72,12,West,Online,Summer,1,0
+SALE-01352,Rose Wine,116.86,71,0,North,Physical Store,Spring,0,1
+SALE-01353,Rose Wine,17.93,73,6,South,Online,Winter,0,1
+SALE-01354,Sparkling Wine,148.58,75,1,East,Physical Store,Summer,1,0
+SALE-01355,Red Wine,97.72,55,3,South,Online,Spring,0,1
+SALE-01356,Sparkling Wine,123.17,68,2,East,Physical Store,Autumn,1,1
+SALE-01357,Sparkling Wine,118.43,51,8,North,Online,Winter,0,0
+SALE-01358,Sparkling Wine,85.84,51,8,North,Physical Store,Summer,0,1
+SALE-01359,Sparkling Wine,19.79,68,3,East,Online,Winter,1,1
+SALE-01360,White Wine,15.41,55,14,North,Online,Autumn,0,1
+SALE-01361,Rose Wine,149.37,34,15,South,Physical Store,Autumn,0,1
+SALE-01362,Sparkling Wine,73.22,63,11,North,Physical Store,Autumn,1,1
+SALE-01363,White Wine,136.53,27,4,North,Physical Store,Autumn,1,1
+SALE-01364,Rose Wine,48.97,67,4,West,Physical Store,Autumn,0,0
+SALE-01365,Rose Wine,97.92,67,5,South,Physical Store,Spring,1,1
+SALE-01366,White Wine,85.08,63,13,North,Physical Store,Summer,0,1
+SALE-01367,Rose Wine,40.35,34,5,East,Online,Spring,0,0
+SALE-01368,Rose Wine,62.32,58,9,East,Online,Winter,0,1
+SALE-01369,Red Wine,66.95,48,9,West,Online,Spring,1,1
+SALE-01370,White Wine,81.81,69,8,West,Physical Store,Winter,0,0
+SALE-01371,Rose Wine,98.52,38,15,North,Online,Winter,0,1
+SALE-01372,Red Wine,149.61,42,2,East,Online,Summer,1,0
+SALE-01373,White Wine,44.67,74,10,South,Online,Winter,1,1
+SALE-01374,Rose Wine,23.8,61,2,North,Physical Store,Spring,0,1
+SALE-01375,Sparkling Wine,26.18,26,11,North,Physical Store,Spring,1,0
+SALE-01376,Rose Wine,40.02,71,6,West,Physical Store,Winter,0,1
+SALE-01377,Sparkling Wine,106.43,65,4,South,Online,Spring,1,1
+SALE-01378,White Wine,53.16,22,9,South,Online,Winter,0,1
+SALE-01379,White Wine,35.28,46,5,West,Online,Summer,0,1
+SALE-01380,Red Wine,118.75,70,8,East,Online,Autumn,1,1
+SALE-01381,Red Wine,121.42,67,14,North,Online,Winter,1,1
+SALE-01382,Sparkling Wine,141.48,25,12,South,Physical Store,Autumn,1,1
+SALE-01383,Rose Wine,119.83,52,0,South,Online,Summer,0,0
+SALE-01384,Rose Wine,43.04,65,0,North,Online,Spring,1,1
+SALE-01385,Rose Wine,62.3,55,9,East,Online,Spring,0,1
+SALE-01386,Rose Wine,128.65,60,4,West,Physical Store,Summer,1,1
+SALE-01387,Red Wine,142.75,55,3,South,Physical Store,Winter,0,1
+SALE-01388,Rose Wine,22.66,36,6,West,Online,Summer,1,1
+SALE-01389,White Wine,52.08,70,9,South,Online,Spring,1,0
+SALE-01390,Sparkling Wine,18.33,39,11,North,Physical Store,Autumn,0,0
+SALE-01391,White Wine,140.84,77,3,South,Online,Spring,1,1
+SALE-01392,White Wine,73.95,29,9,West,Online,Spring,0,1
+SALE-01393,White Wine,99.02,25,12,West,Online,Autumn,0,1
+SALE-01394,Red Wine,108.95,65,12,North,Physical Store,Spring,1,0
+SALE-01395,Red Wine,86.32,66,12,East,Physical Store,Summer,1,1
+SALE-01396,Rose Wine,82.81,51,15,South,Physical Store,Autumn,1,1
+SALE-01397,Sparkling Wine,23.2,56,15,East,Online,Summer,1,1
+SALE-01398,White Wine,134.89,34,4,West,Online,Summer,1,0
+SALE-01399,Rose Wine,79.74,47,3,South,Online,Spring,1,1
+SALE-01400,Sparkling Wine,31.46,33,3,North,Online,Spring,0,0
+SALE-01401,Red Wine,119.91,45,5,South,Online,Spring,1,0
+SALE-01402,Rose Wine,147.98,64,4,North,Online,Autumn,1,0
+SALE-01403,White Wine,15.12,79,2,West,Online,Spring,0,1
+SALE-01404,Rose Wine,49.12,39,7,North,Online,Spring,0,0
+SALE-01405,White Wine,77.88,48,1,West,Physical Store,Autumn,1,1
+SALE-01406,Sparkling Wine,44.86,51,15,North,Physical Store,Winter,0,0
+SALE-01407,Red Wine,140.2,54,12,North,Online,Summer,0,1
+SALE-01408,Rose Wine,128.56,64,12,West,Physical Store,Spring,0,0
+SALE-01409,Rose Wine,97.81,48,8,West,Online,Summer,0,1
+SALE-01410,Rose Wine,102.47,49,10,West,Physical Store,Summer,1,1
+SALE-01411,Rose Wine,101.19,50,13,West,Online,Autumn,0,1
+SALE-01412,Sparkling Wine,87.88,54,14,South,Online,Autumn,0,0
+SALE-01413,White Wine,74.31,33,15,West,Physical Store,Summer,0,1
+SALE-01414,Rose Wine,44.66,28,10,West,Physical Store,Summer,1,0
+SALE-01415,White Wine,97.34,56,1,South,Physical Store,Winter,0,0
+SALE-01416,Rose Wine,20.21,23,2,West,Physical Store,Winter,1,0
+SALE-01417,Rose Wine,88.9,21,1,South,Online,Winter,1,1
+SALE-01418,Red Wine,88.48,27,2,East,Online,Autumn,1,1
+SALE-01419,Sparkling Wine,81.14,25,15,South,Physical Store,Autumn,0,1
+SALE-01420,Sparkling Wine,92.48,47,14,West,Online,Spring,1,1
+SALE-01421,White Wine,130.49,80,0,South,Physical Store,Autumn,1,0
+SALE-01422,Sparkling Wine,86.47,34,8,West,Online,Winter,1,0
+SALE-01423,Rose Wine,131.25,29,5,East,Online,Summer,1,1
+SALE-01424,White Wine,49.54,53,9,East,Physical Store,Winter,1,1
+SALE-01425,Sparkling Wine,50.77,80,15,North,Online,Spring,1,1
+SALE-01426,Rose Wine,87.61,35,5,South,Online,Summer,0,0
+SALE-01427,White Wine,28.22,51,15,East,Physical Store,Spring,0,0
+SALE-01428,Red Wine,15.53,45,7,North,Physical Store,Summer,0,1
+SALE-01429,White Wine,71.61,21,0,North,Online,Winter,0,1
+SALE-01430,Rose Wine,58.73,80,9,South,Physical Store,Summer,1,0
+SALE-01431,Sparkling Wine,123.38,43,3,West,Physical Store,Autumn,0,0
+SALE-01432,Rose Wine,42.5,79,8,North,Online,Summer,1,1
+SALE-01433,Red Wine,49.41,74,9,West,Physical Store,Winter,0,1
+SALE-01434,Red Wine,77.41,33,15,East,Online,Winter,1,1
+SALE-01435,Rose Wine,108.91,57,1,East,Online,Winter,1,0
+SALE-01436,Sparkling Wine,132.92,37,5,North,Online,Winter,1,1
+SALE-01437,Red Wine,65.23,54,14,East,Online,Autumn,1,1
+SALE-01438,White Wine,137.02,79,8,South,Physical Store,Winter,1,0
+SALE-01439,White Wine,30.42,75,1,South,Physical Store,Summer,0,1
+SALE-01440,Red Wine,34.37,27,13,East,Physical Store,Spring,0,1
+SALE-01441,White Wine,125.11,23,2,West,Physical Store,Autumn,0,0
+SALE-01442,Red Wine,72.43,24,7,East,Online,Autumn,1,1
+SALE-01443,Red Wine,106.18,49,6,West,Physical Store,Winter,0,1
+SALE-01444,Sparkling Wine,57.9,34,4,West,Online,Summer,0,1
+SALE-01445,White Wine,76.2,31,6,North,Physical Store,Spring,0,1
+SALE-01446,Sparkling Wine,124.25,54,0,East,Physical Store,Winter,1,0
+SALE-01447,Rose Wine,78.87,76,6,East,Physical Store,Autumn,0,0
+SALE-01448,White Wine,103.11,25,12,South,Physical Store,Autumn,0,0
+SALE-01449,White Wine,88.28,40,3,North,Online,Autumn,1,0
+SALE-01450,Sparkling Wine,25.66,49,15,North,Physical Store,Autumn,1,1
+SALE-01451,Sparkling Wine,140.86,29,8,South,Online,Winter,1,1
+SALE-01452,Rose Wine,16.01,73,10,South,Online,Spring,0,1
+SALE-01453,Sparkling Wine,41.11,78,3,West,Online,Spring,0,0
+SALE-01454,Sparkling Wine,103.77,48,5,West,Online,Autumn,0,0
+SALE-01455,Red Wine,73.11,72,5,West,Online,Autumn,0,0
+SALE-01456,Red Wine,101.97,27,15,South,Online,Spring,0,0
+SALE-01457,Sparkling Wine,100.31,78,5,West,Physical Store,Autumn,0,0
+SALE-01458,Red Wine,45.75,47,6,West,Online,Spring,0,0
+SALE-01459,Rose Wine,63.97,57,13,North,Physical Store,Winter,1,1
+SALE-01460,Rose Wine,115.21,31,15,West,Physical Store,Autumn,0,0
+SALE-01461,Red Wine,120.7,25,2,North,Physical Store,Summer,1,1
+SALE-01462,Red Wine,91.91,51,7,North,Online,Winter,0,1
+SALE-01463,Red Wine,143.31,68,13,South,Online,Autumn,1,1
+SALE-01464,Rose Wine,24.41,42,9,North,Physical Store,Autumn,0,0
+SALE-01465,Sparkling Wine,55.26,68,1,West,Physical Store,Autumn,1,1
+SALE-01466,Rose Wine,80.18,34,7,East,Physical Store,Winter,0,1
+SALE-01467,Rose Wine,71.34,73,3,West,Physical Store,Winter,1,0
+SALE-01468,White Wine,39.05,23,14,North,Online,Summer,0,1
+SALE-01469,White Wine,98.84,64,14,South,Online,Spring,0,1
+SALE-01470,Sparkling Wine,57.14,50,3,South,Physical Store,Spring,0,1
+SALE-01471,Rose Wine,146.9,69,3,West,Online,Spring,1,1
+SALE-01472,Red Wine,23.52,80,2,East,Physical Store,Autumn,1,0
+SALE-01473,Rose Wine,24.79,52,13,North,Physical Store,Summer,1,1
+SALE-01474,White Wine,114.09,32,2,East,Physical Store,Summer,0,0
+SALE-01475,Rose Wine,137.45,73,1,South,Physical Store,Spring,1,1
+SALE-01476,Rose Wine,43.21,79,8,North,Online,Autumn,1,1
+SALE-01477,Sparkling Wine,145.2,45,11,East,Online,Spring,1,1
+SALE-01478,Sparkling Wine,111.05,60,9,South,Physical Store,Summer,1,1
+SALE-01479,Rose Wine,76.3,48,4,South,Physical Store,Autumn,0,1
+SALE-01480,White Wine,112.23,22,4,North,Online,Autumn,1,1
+SALE-01481,Rose Wine,148.39,60,11,West,Physical Store,Autumn,0,0
+SALE-01482,Red Wine,60.75,43,9,North,Online,Autumn,0,1
+SALE-01483,Red Wine,21.78,46,4,North,Physical Store,Spring,1,1
+SALE-01484,White Wine,37.61,44,1,East,Online,Summer,0,0
+SALE-01485,Sparkling Wine,69.73,58,6,East,Online,Spring,1,1
+SALE-01486,Red Wine,100.22,40,10,North,Online,Autumn,0,0
+SALE-01487,Sparkling Wine,80.15,26,0,South,Physical Store,Autumn,1,0
+SALE-01488,Sparkling Wine,34.76,77,5,West,Online,Winter,0,0
+SALE-01489,White Wine,70.72,27,3,East,Online,Winter,1,0
+SALE-01490,Rose Wine,132.88,76,11,South,Online,Summer,1,0
+SALE-01491,Red Wine,131.72,28,1,West,Physical Store,Winter,0,0
+SALE-01492,Sparkling Wine,146.62,29,15,North,Online,Autumn,0,1
+SALE-01493,White Wine,85.47,25,1,South,Online,Autumn,0,0
+SALE-01494,Sparkling Wine,123.89,23,5,East,Physical Store,Spring,1,0
+SALE-01495,Sparkling Wine,93.2,58,13,North,Physical Store,Winter,0,0
+SALE-01496,Red Wine,31.6,55,14,North,Online,Autumn,1,1
+SALE-01497,Sparkling Wine,131.66,28,12,East,Online,Autumn,1,1
+SALE-01498,Red Wine,55.33,42,4,East,Physical Store,Winter,1,1
+SALE-01499,Red Wine,128.32,64,9,East,Online,Winter,0,1
+SALE-01500,Rose Wine,91.12,48,2,South,Physical Store,Autumn,1,0
+SALE-01501,White Wine,120.79,26,3,East,Physical Store,Spring,0,0
+SALE-01502,White Wine,81.0,78,5,East,Physical Store,Autumn,1,0
+SALE-01503,Red Wine,97.2,61,11,South,Physical Store,Spring,1,1
+SALE-01504,Rose Wine,50.99,38,12,East,Online,Spring,0,1
+SALE-01505,Sparkling Wine,39.01,34,2,North,Physical Store,Spring,1,0
+SALE-01506,White Wine,45.05,64,8,South,Physical Store,Winter,0,1
+SALE-01507,Sparkling Wine,89.35,21,14,South,Physical Store,Autumn,0,0
+SALE-01508,Rose Wine,108.06,47,3,South,Online,Summer,1,1
+SALE-01509,Red Wine,112.41,68,2,East,Online,Summer,0,0
+SALE-01510,Red Wine,72.8,59,11,South,Online,Summer,1,1
+SALE-01511,Red Wine,34.6,71,2,North,Physical Store,Spring,0,0
+SALE-01512,Red Wine,59.85,68,3,West,Physical Store,Autumn,0,1
+SALE-01513,Sparkling Wine,124.39,77,8,East,Online,Spring,0,1
+SALE-01514,Sparkling Wine,58.07,74,6,West,Physical Store,Winter,1,1
+SALE-01515,White Wine,122.4,27,3,West,Online,Spring,1,1
+SALE-01516,White Wine,17.52,37,1,North,Physical Store,Summer,0,1
+SALE-01517,White Wine,109.17,64,8,East,Online,Autumn,0,1
+SALE-01518,Sparkling Wine,56.14,25,11,North,Physical Store,Autumn,0,0
+SALE-01519,Red Wine,107.96,71,14,North,Online,Spring,0,1
+SALE-01520,Rose Wine,69.1,62,2,West,Online,Winter,1,0
+SALE-01521,Red Wine,141.05,71,11,East,Online,Spring,1,0
+SALE-01522,Red Wine,71.02,58,10,West,Online,Spring,0,0
+SALE-01523,White Wine,128.53,69,8,North,Physical Store,Winter,1,1
+SALE-01524,White Wine,146.19,57,0,South,Online,Summer,1,0
+SALE-01525,Rose Wine,37.05,31,1,East,Physical Store,Winter,1,0
+SALE-01526,Red Wine,29.17,72,5,South,Online,Winter,1,1
+SALE-01527,White Wine,90.62,61,7,East,Physical Store,Summer,0,0
+SALE-01528,White Wine,73.06,64,9,West,Physical Store,Spring,1,1
+SALE-01529,Rose Wine,122.2,51,1,South,Physical Store,Spring,1,1
+SALE-01530,Rose Wine,84.18,68,9,North,Physical Store,Summer,0,0
+SALE-01531,Rose Wine,85.79,33,1,West,Physical Store,Spring,0,0
+SALE-01532,White Wine,66.9,48,15,South,Online,Spring,0,1
+SALE-01533,Sparkling Wine,104.3,24,2,South,Physical Store,Spring,0,0
+SALE-01534,Rose Wine,31.93,49,10,South,Physical Store,Winter,1,0
+SALE-01535,Sparkling Wine,123.16,65,15,North,Physical Store,Winter,0,0
+SALE-01536,Red Wine,103.02,38,8,North,Online,Summer,0,0
+SALE-01537,Red Wine,139.51,79,12,West,Online,Winter,0,0
+SALE-01538,Red Wine,34.19,54,12,North,Online,Autumn,0,1
+SALE-01539,Sparkling Wine,52.87,58,14,South,Online,Autumn,1,1
+SALE-01540,Sparkling Wine,108.72,65,13,North,Physical Store,Summer,0,1
+SALE-01541,Red Wine,53.04,25,10,West,Online,Summer,1,1
+SALE-01542,Sparkling Wine,122.92,69,3,West,Physical Store,Summer,1,0
+SALE-01543,Rose Wine,85.32,35,6,South,Physical Store,Winter,0,1
+SALE-01544,Rose Wine,21.27,40,3,West,Online,Spring,1,0
+SALE-01545,White Wine,65.5,27,14,North,Physical Store,Spring,1,1
+SALE-01546,Rose Wine,24.79,42,3,South,Online,Autumn,1,1
+SALE-01547,White Wine,110.63,39,10,West,Online,Winter,0,0
+SALE-01548,Sparkling Wine,108.1,75,8,East,Physical Store,Summer,1,1
+SALE-01549,Sparkling Wine,95.31,21,13,West,Physical Store,Autumn,1,0
+SALE-01550,White Wine,144.88,70,9,East,Online,Spring,0,0
+SALE-01551,Sparkling Wine,21.07,68,12,North,Physical Store,Winter,1,1
+SALE-01552,White Wine,88.08,76,13,West,Online,Spring,1,1
+SALE-01553,Rose Wine,117.48,45,15,West,Physical Store,Autumn,0,0
+SALE-01554,White Wine,110.88,55,1,South,Online,Summer,1,0
+SALE-01555,White Wine,114.56,28,12,East,Physical Store,Summer,0,1
+SALE-01556,Sparkling Wine,79.78,34,10,East,Online,Summer,1,1
+SALE-01557,White Wine,45.78,27,7,East,Online,Winter,0,0
+SALE-01558,Sparkling Wine,64.92,47,7,South,Physical Store,Summer,0,1
+SALE-01559,Rose Wine,109.36,43,13,North,Online,Summer,0,0
+SALE-01560,White Wine,32.07,79,13,South,Physical Store,Summer,1,1
+SALE-01561,Rose Wine,39.44,62,7,West,Physical Store,Winter,1,1
+SALE-01562,Red Wine,42.51,28,1,West,Physical Store,Autumn,0,0
+SALE-01563,Sparkling Wine,45.47,38,0,South,Online,Spring,1,0
+SALE-01564,Sparkling Wine,114.84,72,13,East,Online,Summer,0,1
+SALE-01565,Rose Wine,104.37,43,0,East,Online,Summer,0,0
+SALE-01566,White Wine,142.19,65,6,South,Online,Spring,1,1
+SALE-01567,Red Wine,16.6,50,15,West,Online,Winter,0,1
+SALE-01568,Red Wine,35.74,76,13,North,Physical Store,Winter,1,1
+SALE-01569,Sparkling Wine,87.89,77,8,North,Online,Summer,1,1
+SALE-01570,White Wine,109.76,64,14,North,Online,Autumn,1,1
+SALE-01571,Rose Wine,125.52,26,11,North,Online,Spring,1,1
+SALE-01572,Rose Wine,68.97,34,1,East,Physical Store,Winter,1,0
+SALE-01573,White Wine,86.28,59,11,West,Online,Summer,0,0
+SALE-01574,Red Wine,87.72,70,6,South,Online,Spring,0,1
+SALE-01575,White Wine,142.13,79,13,East,Physical Store,Summer,1,1
+SALE-01576,White Wine,128.41,80,12,North,Online,Spring,1,0
+SALE-01577,White Wine,112.42,71,15,North,Physical Store,Autumn,1,1
+SALE-01578,Sparkling Wine,41.7,34,11,North,Physical Store,Summer,0,1
+SALE-01579,White Wine,77.21,28,5,North,Online,Autumn,0,0
+SALE-01580,Red Wine,38.76,45,2,East,Online,Winter,1,1
+SALE-01581,White Wine,78.57,51,12,North,Online,Winter,1,0
+SALE-01582,Rose Wine,59.4,46,8,East,Online,Summer,1,1
+SALE-01583,White Wine,46.91,68,3,North,Physical Store,Winter,0,0
+SALE-01584,Rose Wine,119.25,39,12,West,Physical Store,Autumn,0,0
+SALE-01585,Rose Wine,65.01,38,2,North,Physical Store,Summer,0,0
+SALE-01586,Red Wine,22.46,64,14,North,Online,Autumn,0,0
+SALE-01587,White Wine,147.57,23,8,East,Online,Summer,1,1
+SALE-01588,Sparkling Wine,65.7,76,6,South,Online,Autumn,0,1
+SALE-01589,Red Wine,101.9,53,15,West,Physical Store,Spring,0,1
+SALE-01590,White Wine,139.73,55,8,East,Online,Summer,1,1
+SALE-01591,Rose Wine,47.76,47,14,West,Physical Store,Autumn,1,1
+SALE-01592,Red Wine,65.32,21,11,North,Online,Winter,0,1
+SALE-01593,Rose Wine,71.6,49,8,East,Physical Store,Spring,0,0
+SALE-01594,Red Wine,83.62,57,3,East,Physical Store,Winter,1,1
+SALE-01595,Sparkling Wine,113.54,48,9,South,Online,Spring,0,1
+SALE-01596,Rose Wine,57.97,62,14,South,Physical Store,Winter,0,0
+SALE-01597,Red Wine,141.07,44,13,East,Online,Spring,0,1
+SALE-01598,Red Wine,63.08,57,12,North,Online,Winter,0,1
+SALE-01599,Rose Wine,83.01,51,10,North,Online,Autumn,0,1
+SALE-01600,Sparkling Wine,37.62,62,9,East,Physical Store,Autumn,1,1
+SALE-01601,Red Wine,139.39,35,11,North,Online,Winter,1,1
+SALE-01602,Rose Wine,142.62,62,3,South,Physical Store,Winter,1,0
+SALE-01603,Rose Wine,29.52,46,4,East,Physical Store,Autumn,1,1
+SALE-01604,Red Wine,75.77,61,14,South,Physical Store,Winter,0,1
+SALE-01605,Rose Wine,140.51,49,11,West,Physical Store,Summer,1,1
+SALE-01606,Sparkling Wine,78.43,75,4,East,Online,Winter,0,1
+SALE-01607,Rose Wine,48.38,45,11,East,Online,Summer,0,0
+SALE-01608,Sparkling Wine,138.76,59,7,East,Physical Store,Spring,1,1
+SALE-01609,Red Wine,84.87,40,9,East,Online,Summer,1,1
+SALE-01610,White Wine,134.86,49,8,East,Online,Spring,0,0
+SALE-01611,White Wine,106.72,72,7,East,Physical Store,Summer,1,0
+SALE-01612,White Wine,21.81,58,9,West,Physical Store,Summer,1,1
+SALE-01613,Sparkling Wine,83.58,42,6,West,Online,Spring,0,1
+SALE-01614,Red Wine,23.34,35,12,North,Physical Store,Summer,1,1
+SALE-01615,White Wine,124.45,45,8,East,Online,Winter,1,1
+SALE-01616,Rose Wine,110.09,32,12,South,Online,Autumn,0,0
+SALE-01617,Red Wine,105.95,64,11,North,Online,Spring,1,1
+SALE-01618,Red Wine,71.64,42,12,East,Physical Store,Spring,1,1
+SALE-01619,Red Wine,110.31,50,13,West,Online,Spring,0,0
+SALE-01620,White Wine,95.84,26,0,South,Physical Store,Autumn,0,0
+SALE-01621,Sparkling Wine,120.59,67,11,South,Online,Winter,0,0
+SALE-01622,Red Wine,52.66,50,0,West,Online,Summer,0,1
+SALE-01623,Red Wine,94.35,53,5,South,Online,Autumn,1,1
+SALE-01624,Red Wine,139.8,36,15,North,Online,Summer,1,1
+SALE-01625,White Wine,128.85,42,0,North,Online,Summer,1,0
+SALE-01626,Red Wine,45.29,31,9,North,Physical Store,Winter,1,1
+SALE-01627,Red Wine,98.43,30,3,South,Online,Autumn,1,1
+SALE-01628,Rose Wine,141.69,29,7,South,Physical Store,Summer,0,0
+SALE-01629,Red Wine,87.31,57,4,West,Physical Store,Winter,0,1
+SALE-01630,White Wine,24.82,32,13,East,Physical Store,Spring,0,1
+SALE-01631,Red Wine,60.35,70,10,South,Physical Store,Autumn,1,1
+SALE-01632,Rose Wine,67.39,33,2,North,Online,Summer,1,0
+SALE-01633,White Wine,114.41,70,6,North,Online,Spring,0,0
+SALE-01634,Sparkling Wine,102.73,58,12,West,Online,Autumn,1,1
+SALE-01635,Sparkling Wine,47.88,69,0,South,Physical Store,Summer,1,1
+SALE-01636,Sparkling Wine,141.95,37,1,West,Online,Summer,1,1
+SALE-01637,Sparkling Wine,111.49,71,12,West,Physical Store,Summer,1,1
+SALE-01638,Sparkling Wine,28.17,37,9,West,Physical Store,Summer,1,1
+SALE-01639,White Wine,90.71,53,14,West,Physical Store,Winter,1,0
+SALE-01640,Rose Wine,117.86,32,5,South,Online,Winter,0,0
+SALE-01641,White Wine,63.96,64,4,South,Physical Store,Spring,0,0
+SALE-01642,White Wine,38.36,39,15,West,Physical Store,Autumn,1,1
+SALE-01643,Sparkling Wine,40.88,55,12,East,Online,Summer,0,1
+SALE-01644,Red Wine,100.73,40,6,North,Physical Store,Summer,0,1
+SALE-01645,Red Wine,65.67,27,12,East,Online,Autumn,1,1
+SALE-01646,Sparkling Wine,123.98,71,5,West,Online,Summer,0,1
+SALE-01647,White Wine,34.99,38,9,West,Physical Store,Summer,0,0
+SALE-01648,Sparkling Wine,47.66,75,14,West,Physical Store,Winter,0,0
+SALE-01649,Sparkling Wine,74.74,54,9,North,Online,Autumn,0,1
+SALE-01650,Sparkling Wine,119.97,68,2,North,Online,Spring,1,1
+SALE-01651,Rose Wine,128.77,24,1,West,Online,Autumn,1,1
+SALE-01652,Rose Wine,28.27,77,4,South,Online,Spring,1,1
+SALE-01653,Sparkling Wine,129.53,26,5,South,Physical Store,Spring,0,1
+SALE-01654,White Wine,138.97,53,13,North,Online,Autumn,0,0
+SALE-01655,White Wine,81.16,52,3,North,Online,Autumn,1,1
+SALE-01656,White Wine,146.91,43,8,West,Physical Store,Winter,0,1
+SALE-01657,White Wine,15.55,41,1,North,Physical Store,Spring,1,1
+SALE-01658,Rose Wine,108.63,37,0,East,Physical Store,Summer,1,1
+SALE-01659,White Wine,71.26,66,12,West,Online,Summer,1,0
+SALE-01660,Sparkling Wine,67.75,34,6,North,Physical Store,Summer,0,1
+SALE-01661,Red Wine,19.3,65,2,West,Physical Store,Summer,0,1
+SALE-01662,Red Wine,47.37,50,12,East,Online,Spring,1,0
+SALE-01663,Red Wine,35.17,72,13,East,Physical Store,Spring,1,1
+SALE-01664,Red Wine,136.44,65,2,North,Physical Store,Autumn,1,1
+SALE-01665,Red Wine,125.15,44,7,South,Online,Autumn,0,0
+SALE-01666,White Wine,94.97,64,0,East,Online,Spring,0,0
+SALE-01667,Sparkling Wine,48.26,47,0,North,Online,Summer,0,1
+SALE-01668,Sparkling Wine,124.58,47,5,North,Online,Winter,0,0
+SALE-01669,White Wine,55.79,29,7,East,Online,Summer,1,0
+SALE-01670,Rose Wine,81.51,69,3,South,Online,Spring,0,0
+SALE-01671,Red Wine,48.66,37,15,East,Physical Store,Winter,1,1
+SALE-01672,Red Wine,44.32,61,8,East,Online,Winter,0,0
+SALE-01673,Rose Wine,49.5,65,15,West,Online,Autumn,1,1
+SALE-01674,Rose Wine,26.82,27,3,East,Physical Store,Autumn,1,0
+SALE-01675,White Wine,23.43,74,15,North,Physical Store,Winter,1,1
+SALE-01676,Sparkling Wine,103.26,52,1,North,Physical Store,Autumn,1,0
+SALE-01677,Rose Wine,89.0,36,5,South,Online,Spring,1,1
+SALE-01678,White Wine,39.53,68,1,North,Physical Store,Spring,0,0
+SALE-01679,Red Wine,131.62,24,5,West,Physical Store,Summer,0,0
+SALE-01680,Rose Wine,73.24,71,0,South,Online,Spring,0,1
+SALE-01681,Red Wine,17.86,64,2,North,Online,Summer,1,1
+SALE-01682,Rose Wine,90.76,57,14,South,Physical Store,Spring,1,1
+SALE-01683,Sparkling Wine,80.47,53,8,West,Physical Store,Autumn,0,0
+SALE-01684,Sparkling Wine,19.16,43,3,East,Online,Spring,1,1
+SALE-01685,Sparkling Wine,118.78,78,14,North,Physical Store,Summer,1,1
+SALE-01686,Rose Wine,126.66,72,4,East,Online,Autumn,1,0
+SALE-01687,White Wine,85.36,24,9,North,Physical Store,Summer,1,1
+SALE-01688,White Wine,98.98,35,11,East,Online,Summer,1,1
+SALE-01689,Sparkling Wine,15.29,70,4,South,Online,Summer,1,1
+SALE-01690,Red Wine,110.03,58,9,South,Online,Winter,0,0
+SALE-01691,Red Wine,39.8,40,8,North,Online,Summer,0,0
+SALE-01692,Rose Wine,73.39,34,1,South,Physical Store,Spring,0,1
+SALE-01693,Rose Wine,52.4,29,11,North,Online,Summer,0,1
+SALE-01694,Red Wine,111.08,24,3,East,Online,Winter,1,1
+SALE-01695,Red Wine,25.48,67,13,West,Online,Winter,0,1
+SALE-01696,Rose Wine,81.19,63,8,West,Online,Summer,0,1
+SALE-01697,White Wine,72.31,26,0,North,Online,Spring,0,0
+SALE-01698,Red Wine,124.88,66,1,North,Physical Store,Autumn,0,1
+SALE-01699,Sparkling Wine,124.04,21,4,South,Online,Autumn,1,1
+SALE-01700,Red Wine,28.27,24,3,South,Online,Winter,0,1
+SALE-01701,Rose Wine,52.37,49,10,West,Online,Spring,0,0
+SALE-01702,Sparkling Wine,120.66,58,3,East,Online,Autumn,0,0
+SALE-01703,Rose Wine,133.52,32,0,North,Online,Spring,1,1
+SALE-01704,Rose Wine,50.97,50,2,South,Physical Store,Winter,0,0
+SALE-01705,White Wine,20.25,59,4,North,Physical Store,Winter,0,1
+SALE-01706,White Wine,100.93,58,9,North,Online,Spring,1,1
+SALE-01707,White Wine,70.32,62,3,West,Online,Autumn,0,0
+SALE-01708,Red Wine,114.47,73,7,East,Physical Store,Winter,0,1
+SALE-01709,Rose Wine,17.62,79,10,East,Online,Summer,0,1
+SALE-01710,Red Wine,133.91,67,5,South,Online,Autumn,0,1
+SALE-01711,Rose Wine,147.59,74,13,North,Physical Store,Summer,1,1
+SALE-01712,Red Wine,29.41,46,3,North,Physical Store,Autumn,1,0
+SALE-01713,White Wine,137.6,74,12,East,Online,Winter,1,0
+SALE-01714,Red Wine,124.04,76,14,North,Online,Winter,1,1
+SALE-01715,Sparkling Wine,147.12,75,6,North,Physical Store,Autumn,0,1
+SALE-01716,Red Wine,110.67,60,1,West,Physical Store,Summer,0,0
+SALE-01717,Rose Wine,48.54,47,13,West,Online,Autumn,1,1
+SALE-01718,Rose Wine,109.1,67,8,North,Physical Store,Spring,1,1
+SALE-01719,Sparkling Wine,18.56,76,14,North,Online,Winter,1,1
+SALE-01720,Red Wine,137.13,39,9,South,Online,Summer,0,1
+SALE-01721,Rose Wine,137.25,59,4,East,Online,Autumn,0,0
+SALE-01722,Sparkling Wine,111.81,44,0,South,Physical Store,Autumn,1,1
+SALE-01723,Sparkling Wine,94.35,24,14,East,Physical Store,Summer,1,1
+SALE-01724,Rose Wine,30.66,54,8,West,Online,Spring,1,1
+SALE-01725,Sparkling Wine,106.58,79,7,North,Physical Store,Winter,0,1
+SALE-01726,Rose Wine,91.07,61,12,South,Physical Store,Summer,1,1
+SALE-01727,Sparkling Wine,66.73,30,4,North,Physical Store,Autumn,0,0
+SALE-01728,Rose Wine,48.36,28,7,East,Physical Store,Winter,0,1
+SALE-01729,Rose Wine,134.08,30,15,West,Physical Store,Summer,1,1
+SALE-01730,Red Wine,82.54,27,6,North,Online,Winter,0,1
+SALE-01731,Sparkling Wine,113.12,80,5,West,Online,Spring,0,1
+SALE-01732,White Wine,135.31,77,5,East,Online,Autumn,0,0
+SALE-01733,White Wine,74.68,58,12,West,Physical Store,Summer,0,0
+SALE-01734,Rose Wine,132.84,68,13,South,Online,Summer,1,1
+SALE-01735,Sparkling Wine,146.05,77,11,West,Physical Store,Autumn,0,0
+SALE-01736,Sparkling Wine,20.5,56,10,North,Physical Store,Summer,0,1
+SALE-01737,White Wine,106.64,49,9,South,Physical Store,Winter,1,1
+SALE-01738,Rose Wine,106.63,61,11,North,Physical Store,Autumn,0,1
+SALE-01739,Rose Wine,89.59,75,11,South,Physical Store,Summer,0,1
+SALE-01740,White Wine,137.75,78,12,East,Physical Store,Winter,1,1
+SALE-01741,Rose Wine,37.35,29,1,North,Physical Store,Winter,1,1
+SALE-01742,White Wine,148.79,65,7,East,Online,Summer,1,1
+SALE-01743,Red Wine,59.73,57,5,North,Online,Winter,1,1
+SALE-01744,Sparkling Wine,46.14,70,9,West,Physical Store,Spring,0,1
+SALE-01745,Sparkling Wine,53.5,73,10,West,Online,Autumn,0,1
+SALE-01746,Sparkling Wine,71.94,30,5,West,Physical Store,Summer,0,1
+SALE-01747,Rose Wine,30.69,75,10,West,Online,Winter,1,0
+SALE-01748,Rose Wine,59.78,46,3,South,Online,Autumn,1,0
+SALE-01749,Sparkling Wine,76.96,59,15,West,Physical Store,Autumn,1,0
+SALE-01750,Rose Wine,92.39,44,9,South,Physical Store,Spring,0,1
+SALE-01751,Red Wine,31.99,53,2,West,Physical Store,Summer,1,0
+SALE-01752,Sparkling Wine,94.52,72,1,North,Online,Summer,0,1
+SALE-01753,Red Wine,100.38,51,12,East,Physical Store,Winter,0,0
+SALE-01754,White Wine,30.16,58,0,South,Online,Summer,0,0
+SALE-01755,Red Wine,149.84,54,8,North,Physical Store,Summer,1,1
+SALE-01756,White Wine,98.1,37,11,North,Online,Summer,1,0
+SALE-01757,Red Wine,38.52,63,6,East,Physical Store,Summer,0,0
+SALE-01758,White Wine,132.3,55,14,East,Physical Store,Summer,0,1
+SALE-01759,Red Wine,119.6,46,6,North,Online,Winter,1,1
+SALE-01760,Rose Wine,120.51,71,9,West,Online,Summer,0,0
+SALE-01761,Sparkling Wine,101.68,60,10,West,Online,Summer,0,1
+SALE-01762,Sparkling Wine,127.5,76,13,West,Online,Summer,1,1
+SALE-01763,Red Wine,61.26,63,13,East,Online,Summer,0,0
+SALE-01764,Red Wine,90.95,79,12,East,Physical Store,Winter,0,1
+SALE-01765,White Wine,26.47,76,6,South,Online,Summer,0,1
+SALE-01766,White Wine,116.78,49,12,East,Online,Winter,0,0
+SALE-01767,White Wine,118.26,23,9,South,Online,Winter,0,0
+SALE-01768,Red Wine,65.44,56,7,South,Physical Store,Autumn,1,0
+SALE-01769,White Wine,113.78,40,6,South,Online,Summer,1,0
+SALE-01770,White Wine,85.11,70,3,South,Online,Winter,1,1
+SALE-01771,White Wine,87.69,37,11,West,Physical Store,Summer,1,0
+SALE-01772,White Wine,141.61,38,9,North,Physical Store,Summer,1,1
+SALE-01773,Sparkling Wine,105.11,63,5,South,Physical Store,Autumn,0,1
+SALE-01774,Rose Wine,77.58,76,5,West,Online,Summer,1,0
+SALE-01775,Rose Wine,148.81,32,4,South,Online,Summer,1,0
+SALE-01776,Sparkling Wine,24.83,22,7,South,Online,Winter,1,1
+SALE-01777,Red Wine,18.33,78,14,West,Online,Spring,1,1
+SALE-01778,White Wine,144.22,41,12,North,Online,Autumn,0,0
+SALE-01779,Red Wine,81.97,77,12,North,Online,Spring,0,1
+SALE-01780,Sparkling Wine,110.66,58,3,South,Online,Winter,1,1
+SALE-01781,Red Wine,21.71,28,14,East,Online,Spring,0,0
+SALE-01782,White Wine,45.02,69,1,North,Online,Autumn,0,1
+SALE-01783,Sparkling Wine,76.28,28,7,North,Physical Store,Autumn,1,0
+SALE-01784,Rose Wine,27.64,38,10,North,Online,Summer,1,1
+SALE-01785,Sparkling Wine,67.89,40,13,West,Online,Autumn,0,0
+SALE-01786,Red Wine,28.37,74,8,East,Online,Spring,1,1
+SALE-01787,White Wine,100.77,58,7,East,Online,Spring,0,0
+SALE-01788,White Wine,132.7,60,15,East,Online,Spring,0,1
+SALE-01789,Sparkling Wine,106.91,67,14,East,Online,Winter,0,1
+SALE-01790,Rose Wine,49.95,49,8,South,Physical Store,Summer,0,1
+SALE-01791,White Wine,39.62,41,0,South,Physical Store,Autumn,0,0
+SALE-01792,Red Wine,57.05,28,12,West,Online,Spring,1,1
+SALE-01793,Red Wine,61.4,51,10,North,Physical Store,Spring,0,0
+SALE-01794,Red Wine,135.9,49,11,West,Online,Summer,1,1
+SALE-01795,White Wine,78.64,66,13,South,Online,Autumn,0,1
+SALE-01796,Red Wine,19.97,76,12,South,Online,Spring,0,1
+SALE-01797,White Wine,129.27,36,9,East,Online,Summer,0,0
+SALE-01798,Rose Wine,16.89,33,4,West,Online,Summer,0,0
+SALE-01799,Red Wine,60.71,63,8,East,Physical Store,Autumn,1,1
+SALE-01800,White Wine,66.91,73,14,South,Online,Autumn,1,1
+SALE-01801,Red Wine,137.17,40,14,South,Online,Winter,1,1
+SALE-01802,Rose Wine,125.38,31,13,South,Physical Store,Summer,0,0
+SALE-01803,Rose Wine,109.36,46,9,East,Online,Winter,0,0
+SALE-01804,Sparkling Wine,51.03,30,6,East,Online,Autumn,0,1
+SALE-01805,Rose Wine,35.07,67,14,South,Online,Spring,0,1
+SALE-01806,Rose Wine,140.64,32,2,West,Online,Summer,0,0
+SALE-01807,White Wine,134.19,21,1,North,Online,Summer,1,1
+SALE-01808,White Wine,104.78,36,13,East,Physical Store,Autumn,1,0
+SALE-01809,Red Wine,107.53,31,0,East,Physical Store,Summer,0,0
+SALE-01810,Rose Wine,117.83,66,15,South,Physical Store,Summer,0,0
+SALE-01811,White Wine,77.6,44,15,West,Online,Summer,1,1
+SALE-01812,Sparkling Wine,124.76,26,1,South,Online,Spring,1,1
+SALE-01813,Rose Wine,52.24,38,3,South,Physical Store,Autumn,0,0
+SALE-01814,Sparkling Wine,109.55,26,12,North,Physical Store,Spring,1,1
+SALE-01815,Rose Wine,32.5,55,14,North,Online,Winter,1,1
+SALE-01816,Red Wine,45.19,61,2,South,Physical Store,Summer,0,0
+SALE-01817,White Wine,111.58,71,2,North,Online,Winter,1,1
+SALE-01818,Sparkling Wine,49.75,60,8,South,Online,Winter,1,1
+SALE-01819,Red Wine,95.54,55,2,East,Online,Spring,1,1
+SALE-01820,Red Wine,90.99,40,12,East,Physical Store,Summer,1,1
+SALE-01821,White Wine,128.02,27,15,West,Physical Store,Winter,0,0
+SALE-01822,Sparkling Wine,53.04,50,4,South,Physical Store,Winter,0,0
+SALE-01823,Sparkling Wine,31.96,57,3,North,Physical Store,Winter,0,0
+SALE-01824,White Wine,45.11,33,13,North,Physical Store,Spring,1,0
+SALE-01825,Rose Wine,25.67,68,1,South,Online,Spring,0,0
+SALE-01826,White Wine,88.21,48,8,East,Physical Store,Winter,1,0
+SALE-01827,Rose Wine,118.2,41,3,North,Physical Store,Autumn,1,1
+SALE-01828,White Wine,98.68,23,12,East,Online,Summer,0,0
+SALE-01829,Rose Wine,36.64,22,5,North,Online,Autumn,0,0
+SALE-01830,White Wine,125.62,55,13,West,Online,Winter,1,0
+SALE-01831,Rose Wine,94.62,69,12,West,Online,Autumn,1,1
+SALE-01832,White Wine,87.64,51,3,West,Online,Winter,1,0
+SALE-01833,Sparkling Wine,19.77,80,12,West,Online,Winter,0,0
+SALE-01834,Red Wine,104.54,35,6,South,Online,Autumn,1,1
+SALE-01835,Rose Wine,131.16,71,1,East,Physical Store,Winter,0,0
+SALE-01836,Red Wine,111.96,62,3,South,Physical Store,Summer,0,0
+SALE-01837,White Wine,106.75,42,10,West,Physical Store,Winter,0,0
+SALE-01838,White Wine,16.5,35,9,North,Physical Store,Spring,1,0
+SALE-01839,Rose Wine,127.76,67,6,South,Physical Store,Spring,0,0
+SALE-01840,Rose Wine,106.4,29,15,North,Online,Summer,0,1
+SALE-01841,White Wine,80.93,58,8,East,Physical Store,Spring,1,1
+SALE-01842,Red Wine,29.65,28,14,South,Physical Store,Winter,1,1
+SALE-01843,White Wine,22.11,71,0,South,Online,Winter,1,0
+SALE-01844,Red Wine,46.31,67,3,South,Online,Summer,1,0
+SALE-01845,Rose Wine,46.92,63,12,East,Physical Store,Summer,0,1
+SALE-01846,Sparkling Wine,123.57,65,13,East,Physical Store,Autumn,0,0
+SALE-01847,Sparkling Wine,114.21,29,15,North,Physical Store,Autumn,1,1
+SALE-01848,Sparkling Wine,122.42,34,13,South,Online,Summer,1,0
+SALE-01849,Sparkling Wine,123.96,41,6,West,Online,Winter,0,0
+SALE-01850,Red Wine,90.8,24,14,West,Physical Store,Autumn,1,1
+SALE-01851,Rose Wine,138.08,29,15,North,Online,Spring,0,1
+SALE-01852,White Wine,68.65,36,11,East,Online,Spring,1,1
+SALE-01853,Rose Wine,79.51,25,3,West,Online,Spring,0,1
+SALE-01854,Red Wine,68.26,47,4,North,Physical Store,Spring,0,0
+SALE-01855,Rose Wine,149.65,38,5,North,Physical Store,Autumn,0,0
+SALE-01856,White Wine,80.95,71,7,North,Online,Winter,1,1
+SALE-01857,Sparkling Wine,81.71,31,1,South,Online,Autumn,0,0
+SALE-01858,White Wine,47.96,27,9,South,Physical Store,Summer,0,0
+SALE-01859,Red Wine,144.0,29,0,East,Physical Store,Summer,0,0
+SALE-01860,Sparkling Wine,61.24,56,10,South,Online,Spring,1,1
+SALE-01861,Rose Wine,118.63,50,8,East,Online,Autumn,0,0
+SALE-01862,Rose Wine,24.33,31,15,West,Physical Store,Spring,0,1
+SALE-01863,White Wine,48.17,31,15,South,Online,Spring,0,0
+SALE-01864,Sparkling Wine,27.86,28,13,North,Online,Winter,1,1
+SALE-01865,Sparkling Wine,74.28,31,12,South,Physical Store,Summer,1,1
+SALE-01866,Red Wine,135.75,72,5,West,Physical Store,Autumn,0,0
+SALE-01867,White Wine,50.81,23,13,West,Physical Store,Autumn,0,1
+SALE-01868,Red Wine,75.02,30,9,West,Online,Summer,1,1
+SALE-01869,Rose Wine,139.87,76,13,West,Online,Autumn,0,1
+SALE-01870,Sparkling Wine,108.61,44,1,East,Online,Autumn,1,1
+SALE-01871,Rose Wine,20.45,48,6,West,Online,Autumn,1,1
+SALE-01872,Sparkling Wine,24.65,58,15,East,Online,Summer,0,1
+SALE-01873,Sparkling Wine,51.84,40,7,East,Physical Store,Winter,1,1
+SALE-01874,Sparkling Wine,16.4,72,6,South,Online,Autumn,1,1
+SALE-01875,Red Wine,138.27,52,15,East,Online,Winter,1,1
+SALE-01876,Sparkling Wine,25.33,66,6,North,Online,Spring,1,1
+SALE-01877,Sparkling Wine,135.46,59,2,South,Physical Store,Spring,0,1
+SALE-01878,Sparkling Wine,26.64,35,8,East,Physical Store,Summer,0,1
+SALE-01879,White Wine,29.21,25,6,East,Physical Store,Spring,1,1
+SALE-01880,White Wine,121.67,39,12,West,Physical Store,Spring,0,1
+SALE-01881,Rose Wine,57.3,40,1,South,Physical Store,Autumn,0,0
+SALE-01882,Rose Wine,121.49,21,6,North,Online,Summer,1,1
+SALE-01883,Sparkling Wine,129.61,38,8,East,Physical Store,Summer,1,1
+SALE-01884,White Wine,45.78,68,2,East,Online,Winter,1,0
+SALE-01885,Red Wine,80.5,77,1,West,Physical Store,Spring,0,1
+SALE-01886,Sparkling Wine,72.45,38,1,West,Online,Spring,0,0
+SALE-01887,Red Wine,81.72,21,5,North,Physical Store,Autumn,0,1
+SALE-01888,Sparkling Wine,67.64,26,8,West,Online,Autumn,1,0
+SALE-01889,Rose Wine,112.5,50,8,East,Physical Store,Spring,1,1
+SALE-01890,Sparkling Wine,141.96,73,11,West,Online,Spring,1,1
+SALE-01891,Sparkling Wine,133.54,37,5,North,Online,Summer,0,1
+SALE-01892,Sparkling Wine,73.81,33,0,South,Physical Store,Autumn,1,1
+SALE-01893,Sparkling Wine,144.3,23,1,East,Online,Autumn,1,1
+SALE-01894,White Wine,148.04,31,2,West,Online,Summer,1,1
+SALE-01895,White Wine,146.88,44,7,West,Online,Spring,0,0
+SALE-01896,White Wine,120.31,74,1,East,Physical Store,Winter,0,1
+SALE-01897,White Wine,36.89,62,11,North,Online,Winter,1,1
+SALE-01898,Sparkling Wine,89.89,50,5,East,Physical Store,Summer,0,1
+SALE-01899,Rose Wine,55.79,55,5,East,Physical Store,Winter,1,0
+SALE-01900,White Wine,136.57,24,15,North,Online,Spring,0,0
+SALE-01901,Sparkling Wine,26.33,48,4,North,Physical Store,Spring,1,1
+SALE-01902,White Wine,119.07,42,5,East,Physical Store,Winter,0,1
+SALE-01903,Rose Wine,98.72,23,15,West,Physical Store,Autumn,0,0
+SALE-01904,Red Wine,130.77,28,1,West,Physical Store,Summer,1,1
+SALE-01905,Rose Wine,50.87,58,14,East,Physical Store,Autumn,0,0
+SALE-01906,Sparkling Wine,87.03,44,11,West,Online,Summer,0,1
+SALE-01907,Rose Wine,84.26,26,4,North,Online,Summer,1,1
+SALE-01908,Rose Wine,146.92,42,8,East,Physical Store,Winter,0,0
+SALE-01909,Red Wine,25.45,72,6,South,Physical Store,Summer,0,0
+SALE-01910,White Wine,22.99,79,9,East,Physical Store,Winter,0,1
+SALE-01911,Red Wine,39.33,49,1,West,Physical Store,Autumn,1,0
+SALE-01912,Sparkling Wine,91.82,58,1,North,Online,Spring,1,1
+SALE-01913,Rose Wine,86.99,33,12,North,Online,Winter,0,0
+SALE-01914,Sparkling Wine,19.94,21,14,South,Online,Summer,0,1
+SALE-01915,Sparkling Wine,27.97,47,14,West,Physical Store,Spring,1,1
+SALE-01916,Rose Wine,19.38,54,6,West,Online,Autumn,0,0
+SALE-01917,White Wine,66.49,63,5,East,Online,Autumn,1,1
+SALE-01918,Red Wine,30.68,54,2,South,Online,Winter,0,1
+SALE-01919,Sparkling Wine,125.3,57,0,East,Online,Winter,0,0
+SALE-01920,Rose Wine,89.12,60,15,South,Physical Store,Spring,0,1
+SALE-01921,Rose Wine,136.82,27,10,North,Online,Winter,0,0
+SALE-01922,Rose Wine,53.12,31,13,South,Online,Autumn,1,1
+SALE-01923,Red Wine,108.78,47,4,East,Physical Store,Spring,0,0
+SALE-01924,Red Wine,52.49,40,6,West,Physical Store,Spring,0,0
+SALE-01925,White Wine,109.67,23,11,South,Online,Winter,1,1
+SALE-01926,Sparkling Wine,139.06,43,15,South,Online,Summer,0,0
+SALE-01927,Red Wine,83.24,54,12,South,Online,Spring,0,1
+SALE-01928,Sparkling Wine,52.57,44,14,South,Online,Summer,1,1
+SALE-01929,Red Wine,115.87,68,15,South,Online,Summer,0,0
+SALE-01930,White Wine,25.96,26,15,East,Online,Winter,1,1
+SALE-01931,Red Wine,59.34,31,12,South,Physical Store,Summer,0,1
+SALE-01932,White Wine,66.56,39,7,West,Physical Store,Summer,0,0
+SALE-01933,Red Wine,124.83,78,4,South,Online,Spring,1,0
+SALE-01934,White Wine,120.98,78,8,North,Online,Spring,1,0
+SALE-01935,Sparkling Wine,141.52,77,11,West,Physical Store,Autumn,0,1
+SALE-01936,Rose Wine,54.69,26,12,West,Online,Summer,0,1
+SALE-01937,Red Wine,96.87,76,8,West,Physical Store,Winter,0,1
+SALE-01938,White Wine,66.54,73,3,South,Physical Store,Spring,1,0
+SALE-01939,Red Wine,111.9,37,14,North,Physical Store,Autumn,1,1
+SALE-01940,Red Wine,66.61,67,10,West,Online,Spring,1,1
+SALE-01941,Sparkling Wine,102.04,58,9,West,Online,Winter,1,1
+SALE-01942,Sparkling Wine,110.34,51,7,East,Physical Store,Spring,1,1
+SALE-01943,Red Wine,25.67,31,12,West,Physical Store,Summer,1,1
+SALE-01944,Rose Wine,26.62,64,0,South,Physical Store,Spring,1,1
+SALE-01945,Rose Wine,21.22,77,13,West,Online,Spring,0,1
+SALE-01946,Rose Wine,26.87,22,0,North,Physical Store,Winter,1,0
+SALE-01947,Red Wine,17.29,70,6,North,Online,Winter,0,1
+SALE-01948,Sparkling Wine,38.37,79,6,North,Physical Store,Winter,1,1
+SALE-01949,Rose Wine,35.75,45,15,West,Online,Spring,1,0
+SALE-01950,Sparkling Wine,95.04,30,11,East,Online,Autumn,0,1
+SALE-01951,Sparkling Wine,149.93,38,4,West,Physical Store,Autumn,0,0
+SALE-01952,Red Wine,131.54,23,12,North,Physical Store,Autumn,0,0
+SALE-01953,Red Wine,37.7,38,9,North,Online,Winter,1,1
+SALE-01954,White Wine,75.85,21,15,East,Physical Store,Autumn,0,0
+SALE-01955,Sparkling Wine,20.27,49,3,South,Physical Store,Spring,0,0
+SALE-01956,White Wine,107.97,58,0,East,Physical Store,Summer,1,1
+SALE-01957,Rose Wine,114.33,71,3,North,Physical Store,Autumn,1,1
+SALE-01958,Rose Wine,122.46,64,5,East,Physical Store,Summer,1,0
+SALE-01959,Rose Wine,125.43,28,0,South,Online,Spring,0,1
+SALE-01960,Rose Wine,143.75,37,3,North,Physical Store,Spring,1,0
+SALE-01961,Red Wine,80.86,33,15,South,Online,Winter,0,1
+SALE-01962,White Wine,81.54,63,3,North,Online,Spring,1,0
+SALE-01963,Sparkling Wine,39.53,23,11,East,Physical Store,Spring,1,1
+SALE-01964,White Wine,23.94,41,15,North,Physical Store,Winter,0,0
+SALE-01965,Rose Wine,36.04,63,4,East,Online,Spring,1,1
+SALE-01966,Rose Wine,69.63,43,13,East,Online,Summer,1,1
+SALE-01967,Sparkling Wine,86.83,63,9,North,Online,Autumn,0,0
+SALE-01968,Rose Wine,126.25,34,3,South,Online,Winter,1,0
+SALE-01969,Rose Wine,95.23,75,2,South,Physical Store,Winter,0,1
+SALE-01970,Red Wine,121.51,24,1,East,Physical Store,Autumn,1,1
+SALE-01971,Red Wine,59.2,75,1,North,Physical Store,Autumn,0,0
+SALE-01972,White Wine,67.44,53,6,North,Physical Store,Spring,1,1
+SALE-01973,Rose Wine,92.92,47,8,North,Physical Store,Winter,1,1
+SALE-01974,Rose Wine,144.27,23,7,West,Online,Winter,1,1
+SALE-01975,Rose Wine,73.31,22,12,North,Physical Store,Winter,0,1
+SALE-01976,White Wine,61.74,74,4,East,Online,Autumn,1,0
+SALE-01977,Sparkling Wine,64.88,22,1,North,Physical Store,Autumn,1,1
+SALE-01978,Rose Wine,100.67,50,13,South,Online,Winter,0,0
+SALE-01979,Sparkling Wine,128.34,21,2,South,Online,Autumn,0,0
+SALE-01980,Rose Wine,73.95,43,2,East,Physical Store,Summer,0,1
+SALE-01981,White Wine,87.78,39,1,South,Physical Store,Autumn,0,1
+SALE-01982,Red Wine,122.97,74,5,East,Physical Store,Winter,1,1
+SALE-01983,White Wine,75.7,28,8,South,Physical Store,Spring,1,0
+SALE-01984,Red Wine,103.0,47,10,West,Online,Summer,1,1
+SALE-01985,White Wine,48.72,50,8,East,Physical Store,Spring,0,0
+SALE-01986,Rose Wine,39.64,75,6,South,Physical Store,Winter,1,1
+SALE-01987,White Wine,54.92,37,9,East,Online,Spring,1,1
+SALE-01988,Rose Wine,83.97,73,4,West,Physical Store,Spring,1,1
+SALE-01989,White Wine,39.71,72,10,South,Physical Store,Winter,0,0
+SALE-01990,Sparkling Wine,52.13,63,1,South,Online,Spring,0,1
+SALE-01991,Sparkling Wine,114.78,42,15,North,Online,Winter,1,1
+SALE-01992,Red Wine,84.87,39,4,West,Online,Winter,0,1
+SALE-01993,White Wine,53.12,77,14,East,Physical Store,Winter,1,1
+SALE-01994,Rose Wine,121.57,54,10,West,Physical Store,Autumn,0,0
+SALE-01995,Red Wine,147.98,60,3,East,Online,Autumn,1,1
+SALE-01996,Rose Wine,145.73,72,10,West,Physical Store,Winter,0,1
+SALE-01997,Rose Wine,88.23,37,5,South,Physical Store,Autumn,0,1
+SALE-01998,Sparkling Wine,45.18,72,12,East,Online,Spring,1,1
+SALE-01999,Sparkling Wine,123.78,23,11,North,Physical Store,Spring,0,1
+SALE-02000,Sparkling Wine,124.17,58,6,North,Physical Store,Winter,0,1
